@@ -1,6 +1,6 @@
 # Daggerheart — Art for Game
 
-Módulo independente de retratos e tokens para os **264 adversários** presentes no Daggerheart **2.10.7**, destinado ao **Foundry VTT 14**.
+Módulo independente com retratos e tokens para **264 adversários** e paisagens para **47 ambientes** do Daggerheart **2.10.7**, destinado ao **Foundry VTT 14**.
 
 A auditoria identificou 129 adversários cobertos pelo Art for Daggerheart 1.1.4 e 135 sem artes. O projeto preserva os 129 retratos, 129 recortes circulares e 676 variantes existentes e acrescenta uma ilustração individual com fundo transparente, e o recorte circular dela, para cada adversário faltante.
 
@@ -48,6 +48,20 @@ await game.modules.get("daggerheart-art-complete").api.fixTokenFraming();
 A macro percorre os protótipos dos atores e os tokens de todas as cenas, somente quando usam imagens deste módulo. Ela troca a imagem pelo estilo escolhido, ajusta enquadramento e anel e mantém o espelhamento. Tamanho no mapa, visão, luz e regras não mudam.
 
 O módulo muda imagens e opções visuais; mantém tamanho no mapa, recursos, estatísticas, visão, luz e demais regras. Nenhum pack do sistema é editado. Os IDs do compêndio fazem a associação, por isso a tradução do nome não altera a correspondência. Atualizações futuras que acrescentem criaturas ou troquem IDs exigirão nova auditoria.
+
+## Ambientes — versão 1.3.0
+
+Os 47 documentos do compêndio **Environments / Ambientes** recebem paisagens panorâmicas individuais, criadas a partir do nome, descrição e características do sistema Daggerheart 2.10.7. Os arquivos estão em `environments/`, com os nomes originais dos ambientes. Abra `galeria-ambientes.html` para buscar pelos nomes em português ou inglês e abrir as imagens completas.
+
+As paisagens são ilustrações das fichas de ambiente e podem ser usadas como fundos de cena ou imagens para apresentar aos jogadores. São imagens de perspectiva, sem grade. O módulo não cria cenas nem muda tokens de ambiente.
+
+Depois de atualizar para a 1.3.0 e recarregar o Foundry, abra ou importe os ambientes do compêndio para ver as paisagens. Para atualizar também ambientes já importados que ainda usam o ícone padrão, execute como GM:
+
+```js
+await game.modules.get("daggerheart-art-complete").api.updateEnvironmentArt();
+```
+
+A macro associa pelo ID de origem ou nome em português/inglês. Imagens personalizadas, regras e tokens são preservados. Os prompts e a origem das imagens ficam em `generation/environments/results/` no projeto de desenvolvimento. A criação usa o gerador de imagens integrado.
 
 ## Geração das artes
 

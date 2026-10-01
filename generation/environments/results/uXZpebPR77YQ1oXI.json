@@ -1,0 +1,9 @@
+{
+  "id": "uXZpebPR77YQ1oXI",
+  "name": "Ambushers",
+  "localizedName": "Emboscadores",
+  "filename": "Ambushers.png",
+  "source": "C:\\Users\\Giovanni\\.codex\\generated_images\\01a0f8d0-5fc7-7191-8087-44fd8d4e1fd5\\exec-a3450a77-b764-4b33-aac2-4c45a4fedf47.png",
+  "prompt": "Create a panoramic LANDSCAPE illustration for the Daggerheart environment Ambushers. Canonical description: An ambush is set by the PCs to catch unsuspecting adversaries off-guard. Narrative atmosphere: Escape, group up, protect the most vulnerable. Setting context (translate mechanics into visual storytelling; never render words or game UI): [{\"name\":\"Where Did They Come From?\",\"description\":\"When a PC starts the ambush on unsuspecting adversaries, you lose 2 Fear and the first attack roll a PC makes has advantage.\"},{\"name\":\"Ambushers\",\"description\":\"The Difficulty of this environment equals that of the adversary with the highest Difficulty.\"}]. Art direction: premium mature 2D fantasy animation background art reminiscent of The Legend of Vox Machina; confident hand-drawn architectural and natural forms, graphic hard-edged shadow shapes, selective painterly atmospheric depth, restrained detail, dramatic cinematic lighting, cohesive carefully limited palette. WIDE HORIZONTAL 16:9 landscape composition, immersive establishing shot with foreground, middle distance and far depth; one memorable focal landmark or environmental event. The environment is the protagonist: for social or battle events include appropriately small supporting people to establish activity and scale, never a centered character portrait. Respect the name and canonical description; make this place distinct. Full-bleed opaque scenic background, no transparency, no token circle, no border, no collage, no text, no labels, no map grid, no overhead tactical battlemap, no photorealism, no glossy 3D render.",
+  "tool": "image_gen built-in"
+}

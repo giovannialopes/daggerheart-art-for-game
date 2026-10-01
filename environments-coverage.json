@@ -1,0 +1,291 @@
+{
+  "systemVersion": "2.10.7",
+  "expected": 47,
+  "mapped": 47,
+  "complete": true,
+  "missing": [],
+  "environments": [
+    {
+      "id": "pGEdzdLkqYtBhxnG",
+      "name": "Abandoned Grove",
+      "localizedName": "Bosque Abandonado",
+      "filename": "Abandoned Grove.png"
+    },
+    {
+      "id": "wNfqitfA2Gq3SrF8",
+      "name": "Abandoned Mine",
+      "localizedName": "Mina Abandonada",
+      "filename": "Abandoned Mine.png"
+    },
+    {
+      "id": "zgfq7QcPm5VFbjEe",
+      "name": "Alchemist's Abandoned Workshop",
+      "localizedName": "Oficina Abandonada do Alquimista",
+      "filename": "Alchemist's Abandoned Workshop.png"
+    },
+    {
+      "id": "uGEdNYERCTJBEjc5",
+      "name": "Ambushed",
+      "localizedName": "Emboscados",
+      "filename": "Ambushed.png"
+    },
+    {
+      "id": "uXZpebPR77YQ1oXI",
+      "name": "Ambushers",
+      "localizedName": "Emboscadores",
+      "filename": "Ambushers.png"
+    },
+    {
+      "id": "W8BEoqK1zlK6THPz",
+      "name": "Archmage's Tower",
+      "localizedName": "Torre do Arquimago",
+      "filename": "Archmage's Tower.png"
+    },
+    {
+      "id": "m1RJ6Iic7WfYX02N",
+      "name": "Astral Realm",
+      "localizedName": "Reino Astral",
+      "filename": "Astral Realm.png"
+    },
+    {
+      "id": "76bXzfiKjbFpIDuf",
+      "name": "Beach Day",
+      "localizedName": "Dia de Praia",
+      "filename": "Beach Day.png"
+    },
+    {
+      "id": "oY69NN4rYxoRE4hl",
+      "name": "Burning Heart of the Woods",
+      "localizedName": "Coração Ardente da Mata",
+      "filename": "Burning Heart of the Woods.png"
+    },
+    {
+      "id": "HZKA7hkej7JJY503",
+      "name": "Bustling Marketplace",
+      "localizedName": "Mercado Movimentado",
+      "filename": "Bustling Marketplace.png"
+    },
+    {
+      "id": "1eZ32Esq7rfZOjlu",
+      "name": "Castle Siege",
+      "localizedName": "Cerco ao Castelo",
+      "filename": "Castle Siege.png"
+    },
+    {
+      "id": "2Z1mKc65LxNk2PqR",
+      "name": "Chaos Realm",
+      "localizedName": "Reino do Caos",
+      "filename": "Chaos Realm.png"
+    },
+    {
+      "id": "LPpfdlNKqiZIl04w",
+      "name": "Cliffside Ascent",
+      "localizedName": "Escalada do Penhasco",
+      "filename": "Cliffside Ascent.png"
+    },
+    {
+      "id": "5S3sSvvuXp15MMAR",
+      "name": "Convergence, The City Of Portals",
+      "localizedName": "Convergência, a Cidade dos Portais",
+      "filename": "Convergence, The City Of Portals.png"
+    },
+    {
+      "id": "dOlH1waNE5Jb5ZEj",
+      "name": "Corrupted Swamp",
+      "localizedName": "Pântano Corrompido",
+      "filename": "Corrupted Swamp.png"
+    },
+    {
+      "id": "4ySAAwwc8tddZJSi",
+      "name": "Crystal Wasteland",
+      "localizedName": "Ermo de Cristal",
+      "filename": "Crystal Wasteland.png"
+    },
+    {
+      "id": "QAXXiOKBDmCTauHD",
+      "name": "Cult Ritual",
+      "localizedName": "Ritual do Culto",
+      "filename": "Cult Ritual.png"
+    },
+    {
+      "id": "0OPEz1scGX8gJFPi",
+      "name": "Cursed Graveyard",
+      "localizedName": "Cemitério Maldito",
+      "filename": "Cursed Graveyard.png"
+    },
+    {
+      "id": "tQpntfbUjUjmXc3e",
+      "name": "Deadly Dungeon",
+      "localizedName": "Calabouço Mortal",
+      "filename": "Deadly Dungeon.png"
+    },
+    {
+      "id": "4DLYez7VbMCFDAuZ",
+      "name": "Divine Usurpation",
+      "localizedName": "Usurpação Divina",
+      "filename": "Divine Usurpation.png"
+    },
+    {
+      "id": "ta028s8hP4kvKTaw",
+      "name": "Dragon's Lair",
+      "localizedName": "Covil do Dragão",
+      "filename": "Dragon's Lair.png"
+    },
+    {
+      "id": "mLnGz7Fy9d0ttT9F",
+      "name": "Duel",
+      "localizedName": "Duelo",
+      "filename": "Duel.png"
+    },
+    {
+      "id": "9ltQfUbt4rP6m1Bn",
+      "name": "Grand Feast",
+      "localizedName": "Grande Banquete",
+      "filename": "Grand Feast.png"
+    },
+    {
+      "id": "dsA6j69AnaJhUyqH",
+      "name": "Hallowed Temple",
+      "localizedName": "Templo Consagrado",
+      "filename": "Hallowed Temple.png"
+    },
+    {
+      "id": "OzYbizKraK92FDiI",
+      "name": "Haunted City",
+      "localizedName": "Cidade Assombrada",
+      "filename": "Haunted City.png"
+    },
+    {
+      "id": "7e8T9O0JSj6QzY9P",
+      "name": "Heist",
+      "localizedName": "Golpe",
+      "filename": "Heist.png"
+    },
+    {
+      "id": "E1m1Gw1yQ86QCGuf",
+      "name": "Hold The Line",
+      "localizedName": "Segurem a Linha",
+      "filename": "Hold The Line.png"
+    },
+    {
+      "id": "jr1xAoXzVwVblzxI",
+      "name": "Imperial Court",
+      "localizedName": "Corte Imperial",
+      "filename": "Imperial Court.png"
+    },
+    {
+      "id": "ChrSSjjTPmzCWGrZ",
+      "name": "Local Festival",
+      "localizedName": "Festival Local",
+      "filename": "Local Festival.png"
+    },
+    {
+      "id": "cM4X81DOyvxNIi52",
+      "name": "Local Tavern",
+      "localizedName": "Taverna Local",
+      "filename": "Local Tavern.png"
+    },
+    {
+      "id": "2LTMLwpFCDE9Ih88",
+      "name": "Masquerade Ball",
+      "localizedName": "Baile de Máscaras",
+      "filename": "Masquerade Ball.png"
+    },
+    {
+      "id": "E6xf7TTN2GeWyfv3",
+      "name": "Megastorm",
+      "localizedName": "Megatempestade",
+      "filename": "Megastorm.png"
+    },
+    {
+      "id": "qPo3w2ag677zAAa4",
+      "name": "Moon Kingdom",
+      "localizedName": "Reino Lunar",
+      "filename": "Moon Kingdom.png"
+    },
+    {
+      "id": "acMu9wJrMZZzLSTJ",
+      "name": "Mountain Pass",
+      "localizedName": "Passagem da Montanha",
+      "filename": "Mountain Pass.png"
+    },
+    {
+      "id": "h3KyRL7AshhLAmcH",
+      "name": "Necromancer's Ossuary",
+      "localizedName": "Ossuário do Necromante",
+      "filename": "Necromancer's Ossuary.png"
+    },
+    {
+      "id": "NPup5xz3eYkB4Vhc",
+      "name": "Ocean Voyage",
+      "localizedName": "Travessia Oceânica",
+      "filename": "Ocean Voyage.png"
+    },
+    {
+      "id": "YezryR32uo39xRxW",
+      "name": "Outpost Town",
+      "localizedName": "Vilarejo de Fronteira",
+      "filename": "Outpost Town.png"
+    },
+    {
+      "id": "EWD3ZsLoK6VMVOf7",
+      "name": "Pitched Battle",
+      "localizedName": "Batalha Campal",
+      "filename": "Pitched Battle.png"
+    },
+    {
+      "id": "t4cdqTfzcqP3H1vJ",
+      "name": "Raging River",
+      "localizedName": "Rio Revolto",
+      "filename": "Raging River.png"
+    },
+    {
+      "id": "6vhekzax9PxL8TgX",
+      "name": "Raiding Party",
+      "localizedName": "Bando de Saqueadores",
+      "filename": "Raiding Party.png"
+    },
+    {
+      "id": "sstO8KJz1VeYv2hZ",
+      "name": "Realm Of The Dead",
+      "localizedName": "Reino dos Mortos",
+      "filename": "Realm Of The Dead.png"
+    },
+    {
+      "id": "5vOcK3I6ei6WnbKO",
+      "name": "Sunken Citadel",
+      "localizedName": "Cidadela Submersa",
+      "filename": "Sunken Citadel.png"
+    },
+    {
+      "id": "QbGEzb5Gvq36qYDj",
+      "name": "Time Court",
+      "localizedName": "Corte do Tempo",
+      "filename": "Time Court.png"
+    },
+    {
+      "id": "m2xG46JFpCw5YHRX",
+      "name": "Upscale Casino",
+      "localizedName": "Cassino de Luxo",
+      "filename": "Upscale Casino.png"
+    },
+    {
+      "id": "qSfnKodJHZWYsYKF",
+      "name": "Vast Desert",
+      "localizedName": "Vasto Deserto",
+      "filename": "Vast Desert.png"
+    },
+    {
+      "id": "tBXKfR9yQ2zypqWt",
+      "name": "Volcanic Eruption",
+      "localizedName": "Erupção Vulcânica",
+      "filename": "Volcanic Eruption.png"
+    },
+    {
+      "id": "HnJrh1GLJfu2nBbY",
+      "name": "Witch's Hut",
+      "localizedName": "Cabana da Bruxa",
+      "filename": "Witch's Hut.png"
+    }
+  ]
+}

@@ -1,5 +1,6 @@
 import { MODULE_ID, MODES, DEFAULT_RING_SCALE, applyTokenArt } from "./art.js";
 import { fixTokenFraming } from "./repair.js";
+import { updateEnvironmentArt } from "./environments.js";
 
 const currentOptions = () => ({
   mode: game.settings.get(MODULE_ID, "tokenMode"),
@@ -9,7 +10,7 @@ const currentOptions = () => ({
 
 Hooks.once("init", () => {
   const module = game.modules.get(MODULE_ID);
-  if (module) module.api = { fixTokenFraming: () => fixTokenFraming(currentOptions()) };
+  if (module) module.api = { fixTokenFraming: () => fixTokenFraming(currentOptions()), updateEnvironmentArt };
   game.settings.register(MODULE_ID, "tokenMode", {
     name: "Estilo dos tokens",
     hint: "Circular usa o recorte redondo de cada adversário e é o único estilo com anel. Variantes alterna as artes de corpo inteiro, sem anel. Retrato usa a imagem da ficha, sem anel.",

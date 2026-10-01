@@ -1,8 +1,8 @@
 {
   "id": "daggerheart-art-complete",
   "title": "Daggerheart - Art for Game",
-  "description": "Retratos e tokens para os adversários do sistema Daggerheart, com as artes do Art for Daggerheart e novas ilustrações. Oferece tokens circulares, variantes e retratos, preservando o tamanho e as regras dos adversários.",
-  "version": "1.2.2",
+  "description": "Retratos e tokens para 264 adversários e paisagens para os 47 ambientes do Daggerheart. Inclui as artes do Art for Daggerheart e ilustrações adicionais.",
+  "version": "1.3.0",
   "compatibility": {
     "minimum": "14",
     "verified": "14"

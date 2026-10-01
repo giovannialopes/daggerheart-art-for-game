@@ -8472,5 +8472,336 @@
         "variantPattern": "modules/daggerheart-art-complete/adversaries/tokens/Zombie Legion-*.webp"
       }
     }
+  },
+  "daggerheart.environments": {
+    "pGEdzdLkqYtBhxnG": {
+      "actor": "modules/daggerheart-art-complete/environments/Abandoned Grove.png",
+      "environmentArt": {
+        "name": "Abandoned Grove",
+        "localizedName": "Bosque Abandonado"
+      }
+    },
+    "wNfqitfA2Gq3SrF8": {
+      "actor": "modules/daggerheart-art-complete/environments/Abandoned Mine.png",
+      "environmentArt": {
+        "name": "Abandoned Mine",
+        "localizedName": "Mina Abandonada"
+      }
+    },
+    "zgfq7QcPm5VFbjEe": {
+      "actor": "modules/daggerheart-art-complete/environments/Alchemist's Abandoned Workshop.png",
+      "environmentArt": {
+        "name": "Alchemist's Abandoned Workshop",
+        "localizedName": "Oficina Abandonada do Alquimista"
+      }
+    },
+    "uGEdNYERCTJBEjc5": {
+      "actor": "modules/daggerheart-art-complete/environments/Ambushed.png",
+      "environmentArt": {
+        "name": "Ambushed",
+        "localizedName": "Emboscados"
+      }
+    },
+    "uXZpebPR77YQ1oXI": {
+      "actor": "modules/daggerheart-art-complete/environments/Ambushers.png",
+      "environmentArt": {
+        "name": "Ambushers",
+        "localizedName": "Emboscadores"
+      }
+    },
+    "W8BEoqK1zlK6THPz": {
+      "actor": "modules/daggerheart-art-complete/environments/Archmage's Tower.png",
+      "environmentArt": {
+        "name": "Archmage's Tower",
+        "localizedName": "Torre do Arquimago"
+      }
+    },
+    "m1RJ6Iic7WfYX02N": {
+      "actor": "modules/daggerheart-art-complete/environments/Astral Realm.png",
+      "environmentArt": {
+        "name": "Astral Realm",
+        "localizedName": "Reino Astral"
+      }
+    },
+    "76bXzfiKjbFpIDuf": {
+      "actor": "modules/daggerheart-art-complete/environments/Beach Day.png",
+      "environmentArt": {
+        "name": "Beach Day",
+        "localizedName": "Dia de Praia"
+      }
+    },
+    "oY69NN4rYxoRE4hl": {
+      "actor": "modules/daggerheart-art-complete/environments/Burning Heart of the Woods.png",
+      "environmentArt": {
+        "name": "Burning Heart of the Woods",
+        "localizedName": "Coração Ardente da Mata"
+      }
+    },
+    "HZKA7hkej7JJY503": {
+      "actor": "modules/daggerheart-art-complete/environments/Bustling Marketplace.png",
+      "environmentArt": {
+        "name": "Bustling Marketplace",
+        "localizedName": "Mercado Movimentado"
+      }
+    },
+    "1eZ32Esq7rfZOjlu": {
+      "actor": "modules/daggerheart-art-complete/environments/Castle Siege.png",
+      "environmentArt": {
+        "name": "Castle Siege",
+        "localizedName": "Cerco ao Castelo"
+      }
+    },
+    "2Z1mKc65LxNk2PqR": {
+      "actor": "modules/daggerheart-art-complete/environments/Chaos Realm.png",
+      "environmentArt": {
+        "name": "Chaos Realm",
+        "localizedName": "Reino do Caos"
+      }
+    },
+    "LPpfdlNKqiZIl04w": {
+      "actor": "modules/daggerheart-art-complete/environments/Cliffside Ascent.png",
+      "environmentArt": {
+        "name": "Cliffside Ascent",
+        "localizedName": "Escalada do Penhasco"
+      }
+    },
+    "5S3sSvvuXp15MMAR": {
+      "actor": "modules/daggerheart-art-complete/environments/Convergence, The City Of Portals.png",
+      "environmentArt": {
+        "name": "Convergence, The City Of Portals",
+        "localizedName": "Convergência, a Cidade dos Portais"
+      }
+    },
+    "dOlH1waNE5Jb5ZEj": {
+      "actor": "modules/daggerheart-art-complete/environments/Corrupted Swamp.png",
+      "environmentArt": {
+        "name": "Corrupted Swamp",
+        "localizedName": "Pântano Corrompido"
+      }
+    },
+    "4ySAAwwc8tddZJSi": {
+      "actor": "modules/daggerheart-art-complete/environments/Crystal Wasteland.png",
+      "environmentArt": {
+        "name": "Crystal Wasteland",
+        "localizedName": "Ermo de Cristal"
+      }
+    },
+    "QAXXiOKBDmCTauHD": {
+      "actor": "modules/daggerheart-art-complete/environments/Cult Ritual.png",
+      "environmentArt": {
+        "name": "Cult Ritual",
+        "localizedName": "Ritual do Culto"
+      }
+    },
+    "0OPEz1scGX8gJFPi": {
+      "actor": "modules/daggerheart-art-complete/environments/Cursed Graveyard.png",
+      "environmentArt": {
+        "name": "Cursed Graveyard",
+        "localizedName": "Cemitério Maldito"
+      }
+    },
+    "tQpntfbUjUjmXc3e": {
+      "actor": "modules/daggerheart-art-complete/environments/Deadly Dungeon.png",
+      "environmentArt": {
+        "name": "Deadly Dungeon",
+        "localizedName": "Calabouço Mortal"
+      }
+    },
+    "4DLYez7VbMCFDAuZ": {
+      "actor": "modules/daggerheart-art-complete/environments/Divine Usurpation.png",
+      "environmentArt": {
+        "name": "Divine Usurpation",
+        "localizedName": "Usurpação Divina"
+      }
+    },
+    "ta028s8hP4kvKTaw": {
+      "actor": "modules/daggerheart-art-complete/environments/Dragon's Lair.png",
+      "environmentArt": {
+        "name": "Dragon's Lair",
+        "localizedName": "Covil do Dragão"
+      }
+    },
+    "mLnGz7Fy9d0ttT9F": {
+      "actor": "modules/daggerheart-art-complete/environments/Duel.png",
+      "environmentArt": {
+        "name": "Duel",
+        "localizedName": "Duelo"
+      }
+    },
+    "9ltQfUbt4rP6m1Bn": {
+      "actor": "modules/daggerheart-art-complete/environments/Grand Feast.png",
+      "environmentArt": {
+        "name": "Grand Feast",
+        "localizedName": "Grande Banquete"
+      }
+    },
+    "dsA6j69AnaJhUyqH": {
+      "actor": "modules/daggerheart-art-complete/environments/Hallowed Temple.png",
+      "environmentArt": {
+        "name": "Hallowed Temple",
+        "localizedName": "Templo Consagrado"
+      }
+    },
+    "OzYbizKraK92FDiI": {
+      "actor": "modules/daggerheart-art-complete/environments/Haunted City.png",
+      "environmentArt": {
+        "name": "Haunted City",
+        "localizedName": "Cidade Assombrada"
+      }
+    },
+    "7e8T9O0JSj6QzY9P": {
+      "actor": "modules/daggerheart-art-complete/environments/Heist.png",
+      "environmentArt": {
+        "name": "Heist",
+        "localizedName": "Golpe"
+      }
+    },
+    "E1m1Gw1yQ86QCGuf": {
+      "actor": "modules/daggerheart-art-complete/environments/Hold The Line.png",
+      "environmentArt": {
+        "name": "Hold The Line",
+        "localizedName": "Segurem a Linha"
+      }
+    },
+    "jr1xAoXzVwVblzxI": {
+      "actor": "modules/daggerheart-art-complete/environments/Imperial Court.png",
+      "environmentArt": {
+        "name": "Imperial Court",
+        "localizedName": "Corte Imperial"
+      }
+    },
+    "ChrSSjjTPmzCWGrZ": {
+      "actor": "modules/daggerheart-art-complete/environments/Local Festival.png",
+      "environmentArt": {
+        "name": "Local Festival",
+        "localizedName": "Festival Local"
+      }
+    },
+    "cM4X81DOyvxNIi52": {
+      "actor": "modules/daggerheart-art-complete/environments/Local Tavern.png",
+      "environmentArt": {
+        "name": "Local Tavern",
+        "localizedName": "Taverna Local"
+      }
+    },
+    "2LTMLwpFCDE9Ih88": {
+      "actor": "modules/daggerheart-art-complete/environments/Masquerade Ball.png",
+      "environmentArt": {
+        "name": "Masquerade Ball",
+        "localizedName": "Baile de Máscaras"
+      }
+    },
+    "E6xf7TTN2GeWyfv3": {
+      "actor": "modules/daggerheart-art-complete/environments/Megastorm.png",
+      "environmentArt": {
+        "name": "Megastorm",
+        "localizedName": "Megatempestade"
+      }
+    },
+    "qPo3w2ag677zAAa4": {
+      "actor": "modules/daggerheart-art-complete/environments/Moon Kingdom.png",
+      "environmentArt": {
+        "name": "Moon Kingdom",
+        "localizedName": "Reino Lunar"
+      }
+    },
+    "acMu9wJrMZZzLSTJ": {
+      "actor": "modules/daggerheart-art-complete/environments/Mountain Pass.png",
+      "environmentArt": {
+        "name": "Mountain Pass",
+        "localizedName": "Passagem da Montanha"
+      }
+    },
+    "h3KyRL7AshhLAmcH": {
+      "actor": "modules/daggerheart-art-complete/environments/Necromancer's Ossuary.png",
+      "environmentArt": {
+        "name": "Necromancer's Ossuary",
+        "localizedName": "Ossuário do Necromante"
+      }
+    },
+    "NPup5xz3eYkB4Vhc": {
+      "actor": "modules/daggerheart-art-complete/environments/Ocean Voyage.png",
+      "environmentArt": {
+        "name": "Ocean Voyage",
+        "localizedName": "Travessia Oceânica"
+      }
+    },
+    "YezryR32uo39xRxW": {
+      "actor": "modules/daggerheart-art-complete/environments/Outpost Town.png",
+      "environmentArt": {
+        "name": "Outpost Town",
+        "localizedName": "Vilarejo de Fronteira"
+      }
+    },
+    "EWD3ZsLoK6VMVOf7": {
+      "actor": "modules/daggerheart-art-complete/environments/Pitched Battle.png",
+      "environmentArt": {
+        "name": "Pitched Battle",
+        "localizedName": "Batalha Campal"
+      }
+    },
+    "t4cdqTfzcqP3H1vJ": {
+      "actor": "modules/daggerheart-art-complete/environments/Raging River.png",
+      "environmentArt": {
+        "name": "Raging River",
+        "localizedName": "Rio Revolto"
+      }
+    },
+    "6vhekzax9PxL8TgX": {
+      "actor": "modules/daggerheart-art-complete/environments/Raiding Party.png",
+      "environmentArt": {
+        "name": "Raiding Party",
+        "localizedName": "Bando de Saqueadores"
+      }
+    },
+    "sstO8KJz1VeYv2hZ": {
+      "actor": "modules/daggerheart-art-complete/environments/Realm Of The Dead.png",
+      "environmentArt": {
+        "name": "Realm Of The Dead",
+        "localizedName": "Reino dos Mortos"
+      }
+    },
+    "5vOcK3I6ei6WnbKO": {
+      "actor": "modules/daggerheart-art-complete/environments/Sunken Citadel.png",
+      "environmentArt": {
+        "name": "Sunken Citadel",
+        "localizedName": "Cidadela Submersa"
+      }
+    },
+    "QbGEzb5Gvq36qYDj": {
+      "actor": "modules/daggerheart-art-complete/environments/Time Court.png",
+      "environmentArt": {
+        "name": "Time Court",
+        "localizedName": "Corte do Tempo"
+      }
+    },
+    "m2xG46JFpCw5YHRX": {
+      "actor": "modules/daggerheart-art-complete/environments/Upscale Casino.png",
+      "environmentArt": {
+        "name": "Upscale Casino",
+        "localizedName": "Cassino de Luxo"
+      }
+    },
+    "qSfnKodJHZWYsYKF": {
+      "actor": "modules/daggerheart-art-complete/environments/Vast Desert.png",
+      "environmentArt": {
+        "name": "Vast Desert",
+        "localizedName": "Vasto Deserto"
+      }
+    },
+    "tBXKfR9yQ2zypqWt": {
+      "actor": "modules/daggerheart-art-complete/environments/Volcanic Eruption.png",
+      "environmentArt": {
+        "name": "Volcanic Eruption",
+        "localizedName": "Erupção Vulcânica"
+      }
+    },
+    "HnJrh1GLJfu2nBbY": {
+      "actor": "modules/daggerheart-art-complete/environments/Witch's Hut.png",
+      "environmentArt": {
+        "name": "Witch's Hut",
+        "localizedName": "Cabana da Bruxa"
+      }
+    }
   }
 }

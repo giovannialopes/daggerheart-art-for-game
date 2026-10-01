@@ -11,7 +11,7 @@ export const isOurAsset = value => typeof value === "string" && value.startsWith
  * Foundry draws the ring over the token without clipping it, so only the circular crops
  * fit inside a ring. Variants and portraits (landscape art, painted backgrounds) never get one.
  */
-export function selectTokenArt(art, { mode = MODES.CIRCLE, rings = true } = {}) {
+export function selectTokenArt(art, { mode = MODES.CIRCLE, rings = true, facing = "original" } = {}) {
   const metadata = art?.dac;
   if (metadata?.moduleId !== MODULE_ID || !isOurAsset(art?.token?.texture?.src)) return null;
   const portrait = isOurAsset(metadata.portrait) ? metadata.portrait : null;
@@ -33,6 +33,11 @@ export function selectTokenArt(art, { mode = MODES.CIRCLE, rings = true } = {}) 
   }
 
   src ??= art.token.texture.src;
+  if (isOurAsset(metadata.leftPortrait) && ["left", "right"].includes(facing)) {
+    const mirroredCircle = mode === MODES.CIRCLE && !!circle;
+    src = mirroredCircle ? circle : facing === "left" ? metadata.leftPortrait : portrait;
+    return { src, randomImg: false, ringEnabled, scaleX: mirroredCircle && facing === "left" ? -1 : 1 };
+  }
   return { src, randomImg, ringEnabled };
 }
 
@@ -41,7 +46,7 @@ export function tokenArtChanges(selected, previous = {}, ringScale = DEFAULT_RIN
   return {
     "texture.src": selected.src,
     "texture.fit": "contain",
-    "texture.scaleX": previous.texture?.scaleX < 0 ? -1 : 1,
+    "texture.scaleX": selected.scaleX ?? (previous.texture?.scaleX < 0 ? -1 : 1),
     "texture.scaleY": previous.texture?.scaleY < 0 ? -1 : 1,
     randomImg: selected.randomImg,
     "ring.enabled": selected.ringEnabled,

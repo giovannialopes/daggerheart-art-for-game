@@ -12,7 +12,7 @@ Abra `galeria.html` no navegador para consultar as artes por nome, filtrar as no
 
 ## Instalação
 
-A revisão local 1.2.0 atualiza Wyvern, Drake, Young Fire Dragon, Ruby Dragon e Dragon Mother Mitera no estilo de animação definido pela wyvern aprovada. Ela também usa nomes legíveis nos 135 retratos novos e nos seus tokens. Os arquivos com nomes antigos são mantidos por compatibilidade com mundos existentes. O identificador interno continua `daggerheart-art-complete`.
+A revisão local 1.2.1 atualiza Wyvern, Drake, Young Fire Dragon, Ruby Dragon e Dragon Mother Mitera no estilo de animação definido pela wyvern aprovada e inclui versões para a esquerda. Ela também usa nomes legíveis nos 135 retratos novos e nos seus tokens. Os arquivos com nomes antigos são mantidos por compatibilidade com mundos existentes. O identificador interno continua `daggerheart-art-complete`.
 
 Esta revisão precisa ser instalada pelo ZIP local enquanto não for publicada uma nova release. Com o Foundry fechado, extraia a pasta `daggerheart-art-complete` do ZIP em `Data/modules`, substituindo os arquivos da versão anterior. Reabra o mundo e execute a macro abaixo para atualizar tokens circulares existentes e os caminhos antigos. As instruções de manifesto a seguir se referem às releases publicadas.
 
@@ -28,6 +28,8 @@ Esta revisão precisa ser instalada pelo ZIP local enquanto não for publicada u
 O módulo é autossuficiente: a pasta do Art for Daggerheart original não é necessária para carregar suas imagens. Atualizações aparecem automaticamente em **Módulos de Complemento**.
 
 ## Uso
+
+Na versão 1.2.1, **Direção dos dragões revisados** permite escolher Esquerda ou Direita para Wyvern, Drake, Young Fire Dragon, Ruby Dragon e Dragon Mother Mitera. Os retratos de corpo inteiro têm arquivos próprios terminados em ` - Left.png`. Os tokens circulares usam o espelhamento nativo do Foundry. A opção Original / variantes mantém o comportamento anterior; no estilo Variantes de corpo inteiro, os dois lados podem ser sorteados. Depois de mudar a configuração e recarregar o mundo, use a macro abaixo para aplicar a direção às cenas existentes.
 
 Em **Configurações do Módulo → Daggerheart - Art for Game**, escolha:
 

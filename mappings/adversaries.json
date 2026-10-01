@@ -5785,12 +5785,10 @@
         "portrait": "modules/daggerheart-art-complete/adversaries/generated/Drake.png",
         "circle": "modules/daggerheart-art-complete/adversaries/circle/Drake.png",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/Drake.png",
-          "modules/daggerheart-art-complete/adversaries/generated/Drake - Left.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Drake.png"
         ],
-        "variantPattern": "modules/daggerheart-art-complete/adversaries/generated/Drake*.png",
-        "artRevision": "animation-wyvern-reference-2026-10-01",
-        "leftPortrait": "modules/daggerheart-art-complete/adversaries/generated/Drake - Left.png"
+        "variantPattern": null,
+        "artRevision": "animation-wyvern-reference-2026-10-01"
       }
     },
     "wR7cFKrHvRzbzhBT": {
@@ -6993,12 +6991,10 @@
         "portrait": "modules/daggerheart-art-complete/adversaries/generated/Wyvern.png",
         "circle": "modules/daggerheart-art-complete/adversaries/circle/Wyvern.png",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/Wyvern.png",
-          "modules/daggerheart-art-complete/adversaries/generated/Wyvern - Left.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Wyvern.png"
         ],
-        "variantPattern": "modules/daggerheart-art-complete/adversaries/generated/Wyvern*.png",
-        "artRevision": "animation-wyvern-reference-2026-10-01",
-        "leftPortrait": "modules/daggerheart-art-complete/adversaries/generated/Wyvern - Left.png"
+        "variantPattern": null,
+        "artRevision": "animation-wyvern-reference-2026-10-01"
       }
     },
     "qe2bhZCyVou4lTO5": {
@@ -7026,12 +7022,10 @@
         "portrait": "modules/daggerheart-art-complete/adversaries/generated/Young Fire Dragon.png",
         "circle": "modules/daggerheart-art-complete/adversaries/circle/Young Fire Dragon.png",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/Young Fire Dragon.png",
-          "modules/daggerheart-art-complete/adversaries/generated/Young Fire Dragon - Left.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Young Fire Dragon.png"
         ],
-        "variantPattern": "modules/daggerheart-art-complete/adversaries/generated/Young Fire Dragon*.png",
-        "artRevision": "animation-wyvern-reference-2026-10-01",
-        "leftPortrait": "modules/daggerheart-art-complete/adversaries/generated/Young Fire Dragon - Left.png"
+        "variantPattern": null,
+        "artRevision": "animation-wyvern-reference-2026-10-01"
       }
     },
     "UGPiPLJsPvMTSKEF": {
@@ -7365,12 +7359,10 @@
         "portrait": "modules/daggerheart-art-complete/adversaries/generated/Dragon Mother Mitera.png",
         "circle": "modules/daggerheart-art-complete/adversaries/circle/Dragon Mother Mitera.png",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/Dragon Mother Mitera.png",
-          "modules/daggerheart-art-complete/adversaries/generated/Dragon Mother Mitera - Left.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Dragon Mother Mitera.png"
         ],
-        "variantPattern": "modules/daggerheart-art-complete/adversaries/generated/Dragon Mother Mitera*.png",
-        "artRevision": "animation-wyvern-reference-2026-10-01",
-        "leftPortrait": "modules/daggerheart-art-complete/adversaries/generated/Dragon Mother Mitera - Left.png"
+        "variantPattern": null,
+        "artRevision": "animation-wyvern-reference-2026-10-01"
       }
     },
     "OsLG2BjaEdTZUJU9": {
@@ -8132,12 +8124,10 @@
         "portrait": "modules/daggerheart-art-complete/adversaries/generated/Ruby Dragon.png",
         "circle": "modules/daggerheart-art-complete/adversaries/circle/Ruby Dragon.png",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/Ruby Dragon.png",
-          "modules/daggerheart-art-complete/adversaries/generated/Ruby Dragon - Left.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Ruby Dragon.png"
         ],
-        "variantPattern": "modules/daggerheart-art-complete/adversaries/generated/Ruby Dragon*.png",
-        "artRevision": "animation-wyvern-reference-2026-10-01",
-        "leftPortrait": "modules/daggerheart-art-complete/adversaries/generated/Ruby Dragon - Left.png"
+        "variantPattern": null,
+        "artRevision": "animation-wyvern-reference-2026-10-01"
       }
     },
     "k70HuYjjFhd2L9Dg": {

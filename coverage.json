@@ -1796,7 +1796,7 @@
       "status": "ready",
       "portrait": "modules/daggerheart-art-complete/adversaries/generated/Drake.png",
       "circle": "modules/daggerheart-art-complete/adversaries/circle/Drake.png",
-      "variants": 2
+      "variants": 0
     },
     {
       "id": "wR7cFKrHvRzbzhBT",
@@ -2176,7 +2176,7 @@
       "status": "ready",
       "portrait": "modules/daggerheart-art-complete/adversaries/generated/Wyvern.png",
       "circle": "modules/daggerheart-art-complete/adversaries/circle/Wyvern.png",
-      "variants": 2
+      "variants": 0
     },
     {
       "id": "qe2bhZCyVou4lTO5",
@@ -2186,7 +2186,7 @@
       "status": "ready",
       "portrait": "modules/daggerheart-art-complete/adversaries/generated/Young Fire Dragon.png",
       "circle": "modules/daggerheart-art-complete/adversaries/circle/Young Fire Dragon.png",
-      "variants": 2
+      "variants": 0
     },
     {
       "id": "UGPiPLJsPvMTSKEF",
@@ -2296,7 +2296,7 @@
       "status": "ready",
       "portrait": "modules/daggerheart-art-complete/adversaries/generated/Dragon Mother Mitera.png",
       "circle": "modules/daggerheart-art-complete/adversaries/circle/Dragon Mother Mitera.png",
-      "variants": 2
+      "variants": 0
     },
     {
       "id": "OsLG2BjaEdTZUJU9",
@@ -2536,7 +2536,7 @@
       "status": "ready",
       "portrait": "modules/daggerheart-art-complete/adversaries/generated/Ruby Dragon.png",
       "circle": "modules/daggerheart-art-complete/adversaries/circle/Ruby Dragon.png",
-      "variants": 2
+      "variants": 0
     },
     {
       "id": "k70HuYjjFhd2L9Dg",

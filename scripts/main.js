@@ -4,20 +4,12 @@ import { fixTokenFraming } from "./repair.js";
 const currentOptions = () => ({
   mode: game.settings.get(MODULE_ID, "tokenMode"),
   rings: game.settings.get(MODULE_ID, "dynamicRings"),
-  ringScale: game.settings.get(MODULE_ID, "ringScale"),
-  facing: game.settings.get(MODULE_ID, "tokenFacing")
+  ringScale: game.settings.get(MODULE_ID, "ringScale")
 });
 
 Hooks.once("init", () => {
   const module = game.modules.get(MODULE_ID);
   if (module) module.api = { fixTokenFraming: () => fixTokenFraming(currentOptions()) };
-  game.settings.register(MODULE_ID, "tokenFacing", {
-    name: "Direção dos dragões revisados",
-    hint: "Esquerda ou direita fixa a direção nos cinco adversários revisados. Original mantém o espelhamento atual e permite alternar lados no estilo Variantes.",
-    scope: "world", config: true, type: String,
-    choices: { original: "Original / variantes", left: "Esquerda", right: "Direita" },
-    default: "original", requiresReload: true
-  });
   game.settings.register(MODULE_ID, "tokenMode", {
     name: "Estilo dos tokens",
     hint: "Circular usa o recorte redondo de cada adversário e é o único estilo com anel. Variantes alterna as artes de corpo inteiro, sem anel. Retrato usa a imagem da ficha, sem anel.",

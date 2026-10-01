@@ -38,11 +38,11 @@
       }
     },
     "C9vt09lsAa6AeXeg": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/C9vt09lsAa6AeXeg.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Ahuizotl.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/C9vt09lsAa6AeXeg.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Ahuizotl.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -59,10 +59,10 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Ahuizotl",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/C9vt09lsAa6AeXeg.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/C9vt09lsAa6AeXeg.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Ahuizotl.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Ahuizotl.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/C9vt09lsAa6AeXeg.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Ahuizotl.png"
         ],
         "variantPattern": null
       }
@@ -101,11 +101,11 @@
       }
     },
     "bXuRtHS6diPWAJKA": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/bXuRtHS6diPWAJKA.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Atototl.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/bXuRtHS6diPWAJKA.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Atototl.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -122,10 +122,10 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Atototl",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/bXuRtHS6diPWAJKA.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/bXuRtHS6diPWAJKA.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Atototl.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Atototl.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/bXuRtHS6diPWAJKA.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Atototl.png"
         ],
         "variantPattern": null
       }
@@ -232,11 +232,11 @@
       }
     },
     "IwliIAsSth5pKGU4": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/IwliIAsSth5pKGU4.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Bugboar.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/IwliIAsSth5pKGU4.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Bugboar.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -253,10 +253,10 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Bugboar",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/IwliIAsSth5pKGU4.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/IwliIAsSth5pKGU4.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Bugboar.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Bugboar.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/IwliIAsSth5pKGU4.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Bugboar.png"
         ],
         "variantPattern": null
       }
@@ -295,11 +295,11 @@
       }
     },
     "JQN5j1AB0VwV0AWN": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/JQN5j1AB0VwV0AWN.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Common Ruffian.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/JQN5j1AB0VwV0AWN.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Common Ruffian.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -316,10 +316,10 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Common Ruffian",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/JQN5j1AB0VwV0AWN.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/JQN5j1AB0VwV0AWN.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Common Ruffian.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Common Ruffian.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/JQN5j1AB0VwV0AWN.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Common Ruffian.png"
         ],
         "variantPattern": null
       }
@@ -397,11 +397,11 @@
       }
     },
     "Z16fYvCNRlD4XZij": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/Z16fYvCNRlD4XZij.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Darkweave Crawler.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/Z16fYvCNRlD4XZij.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Darkweave Crawler.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -418,20 +418,20 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Darkweave Crawler",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Z16fYvCNRlD4XZij.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/Z16fYvCNRlD4XZij.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Darkweave Crawler.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Darkweave Crawler.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/Z16fYvCNRlD4XZij.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Darkweave Crawler.png"
         ],
         "variantPattern": null
       }
     },
     "PcBt4ggimibM7DCp": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/PcBt4ggimibM7DCp.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Darkweave Queen.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/PcBt4ggimibM7DCp.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Darkweave Queen.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -448,20 +448,20 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Darkweave Queen",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/PcBt4ggimibM7DCp.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/PcBt4ggimibM7DCp.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Darkweave Queen.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Darkweave Queen.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/PcBt4ggimibM7DCp.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Darkweave Queen.png"
         ],
         "variantPattern": null
       }
     },
     "YdGTyYI6bBXh5lgV": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/YdGTyYI6bBXh5lgV.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Darkweave Spinner.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/YdGTyYI6bBXh5lgV.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Darkweave Spinner.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -478,20 +478,20 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Darkweave Spinner",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/YdGTyYI6bBXh5lgV.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/YdGTyYI6bBXh5lgV.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Darkweave Spinner.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Darkweave Spinner.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/YdGTyYI6bBXh5lgV.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Darkweave Spinner.png"
         ],
         "variantPattern": null
       }
     },
     "ADiUlCE0woMcvnzv": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/ADiUlCE0woMcvnzv.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Darkweave Swarmlings.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/ADiUlCE0woMcvnzv.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Darkweave Swarmlings.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -508,10 +508,10 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Darkweave Swarmlings",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/ADiUlCE0woMcvnzv.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/ADiUlCE0woMcvnzv.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Darkweave Swarmlings.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Darkweave Swarmlings.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/ADiUlCE0woMcvnzv.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Darkweave Swarmlings.png"
         ],
         "variantPattern": null
       }
@@ -583,11 +583,11 @@
       }
     },
     "VhPEpRkCZKOwK3me": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/VhPEpRkCZKOwK3me.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Elk.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/VhPEpRkCZKOwK3me.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Elk.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -604,20 +604,20 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Elk",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/VhPEpRkCZKOwK3me.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/VhPEpRkCZKOwK3me.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Elk.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Elk.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/VhPEpRkCZKOwK3me.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Elk.png"
         ],
         "variantPattern": null
       }
     },
     "53xmu2ZYzjIOy4Td": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/53xmu2ZYzjIOy4Td.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Falcon.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/53xmu2ZYzjIOy4Td.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Falcon.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -634,10 +634,10 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Falcon",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/53xmu2ZYzjIOy4Td.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/53xmu2ZYzjIOy4Td.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Falcon.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Falcon.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/53xmu2ZYzjIOy4Td.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Falcon.png"
         ],
         "variantPattern": null
       }
@@ -811,11 +811,11 @@
       }
     },
     "lzu6TNdRtCLoo3fN": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/lzu6TNdRtCLoo3fN.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Grimmling Warband.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/lzu6TNdRtCLoo3fN.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Grimmling Warband.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -832,20 +832,20 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Grimmling Warband",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/lzu6TNdRtCLoo3fN.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/lzu6TNdRtCLoo3fN.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Grimmling Warband.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Grimmling Warband.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/lzu6TNdRtCLoo3fN.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Grimmling Warband.png"
         ],
         "variantPattern": null
       }
     },
     "c6WgrpzgbgSpEiyA": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/c6WgrpzgbgSpEiyA.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Harpy.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/c6WgrpzgbgSpEiyA.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Harpy.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -862,10 +862,10 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Harpy",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/c6WgrpzgbgSpEiyA.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/c6WgrpzgbgSpEiyA.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Harpy.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Harpy.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/c6WgrpzgbgSpEiyA.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Harpy.png"
         ],
         "variantPattern": null
       }
@@ -1174,11 +1174,11 @@
       }
     },
     "Eii92UHVhFXh59kL": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/Eii92UHVhFXh59kL.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Kelpie.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/Eii92UHVhFXh59kL.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Kelpie.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -1195,20 +1195,20 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Kelpie",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Eii92UHVhFXh59kL.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/Eii92UHVhFXh59kL.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Kelpie.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Kelpie.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/Eii92UHVhFXh59kL.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Kelpie.png"
         ],
         "variantPattern": null
       }
     },
     "DtpTGuzeLlcZ43ID": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/DtpTGuzeLlcZ43ID.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Masque Muerte.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/DtpTGuzeLlcZ43ID.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Masque Muerte.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -1225,20 +1225,20 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Masque Muerte",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/DtpTGuzeLlcZ43ID.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/DtpTGuzeLlcZ43ID.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Masque Muerte.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Masque Muerte.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/DtpTGuzeLlcZ43ID.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Masque Muerte.png"
         ],
         "variantPattern": null
       }
     },
     "MmK6Sn51uikou7wI": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/MmK6Sn51uikou7wI.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Mechanorb.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/MmK6Sn51uikou7wI.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Mechanorb.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -1255,10 +1255,10 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Mechanorb",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/MmK6Sn51uikou7wI.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/MmK6Sn51uikou7wI.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Mechanorb.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Mechanorb.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/MmK6Sn51uikou7wI.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Mechanorb.png"
         ],
         "variantPattern": null
       }
@@ -1435,11 +1435,11 @@
       }
     },
     "iwhTb5AUvNFV3dU5": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/iwhTb5AUvNFV3dU5.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Mountain Troll.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/iwhTb5AUvNFV3dU5.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Mountain Troll.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -1456,20 +1456,20 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Mountain Troll",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/iwhTb5AUvNFV3dU5.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/iwhTb5AUvNFV3dU5.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Mountain Troll.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Mountain Troll.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/iwhTb5AUvNFV3dU5.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Mountain Troll.png"
         ],
         "variantPattern": null
       }
     },
     "ptWgFVRErxkPbYcs": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/ptWgFVRErxkPbYcs.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Octopus.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/ptWgFVRErxkPbYcs.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Octopus.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -1486,20 +1486,20 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Octopus",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/ptWgFVRErxkPbYcs.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/ptWgFVRErxkPbYcs.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Octopus.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Octopus.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/ptWgFVRErxkPbYcs.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Octopus.png"
         ],
         "variantPattern": null
       }
     },
     "fD6W32riWZbtakYc": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/fD6W32riWZbtakYc.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Panther.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/fD6W32riWZbtakYc.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Panther.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -1516,10 +1516,10 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Panther",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/fD6W32riWZbtakYc.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/fD6W32riWZbtakYc.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Panther.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Panther.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/fD6W32riWZbtakYc.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Panther.png"
         ],
         "variantPattern": null
       }
@@ -1600,11 +1600,11 @@
       }
     },
     "T2kyHFC68VKtIXir": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/T2kyHFC68VKtIXir.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Phantom.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/T2kyHFC68VKtIXir.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Phantom.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -1621,10 +1621,10 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Phantom",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/T2kyHFC68VKtIXir.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/T2kyHFC68VKtIXir.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Phantom.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Phantom.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/T2kyHFC68VKtIXir.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Phantom.png"
         ],
         "variantPattern": null
       }
@@ -1736,11 +1736,11 @@
       }
     },
     "ytj3VDog4hrC4TkO": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/ytj3VDog4hrC4TkO.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Poltergeist.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/ytj3VDog4hrC4TkO.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Poltergeist.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -1757,20 +1757,20 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Poltergeist",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/ytj3VDog4hrC4TkO.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/ytj3VDog4hrC4TkO.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Poltergeist.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Poltergeist.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/ytj3VDog4hrC4TkO.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Poltergeist.png"
         ],
         "variantPattern": null
       }
     },
     "lKmBNV3Sgpq9sTtp": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/lKmBNV3Sgpq9sTtp.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Rabble Mawb.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/lKmBNV3Sgpq9sTtp.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Rabble Mawb.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -1787,10 +1787,10 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Rabble Mawb",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/lKmBNV3Sgpq9sTtp.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/lKmBNV3Sgpq9sTtp.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Rabble Mawb.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Rabble Mawb.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/lKmBNV3Sgpq9sTtp.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Rabble Mawb.png"
         ],
         "variantPattern": null
       }
@@ -1833,11 +1833,11 @@
       }
     },
     "NWhnMXGWzAVUyelj": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/NWhnMXGWzAVUyelj.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Redcap Biters.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/NWhnMXGWzAVUyelj.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Redcap Biters.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -1854,20 +1854,20 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Redcap Biters",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/NWhnMXGWzAVUyelj.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/NWhnMXGWzAVUyelj.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Redcap Biters.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Redcap Biters.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/NWhnMXGWzAVUyelj.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Redcap Biters.png"
         ],
         "variantPattern": null
       }
     },
     "eTmojyT07ekYRAIV": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/eTmojyT07ekYRAIV.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Redcap Breaker.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/eTmojyT07ekYRAIV.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Redcap Breaker.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -1884,20 +1884,20 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Redcap Breaker",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/eTmojyT07ekYRAIV.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/eTmojyT07ekYRAIV.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Redcap Breaker.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Redcap Breaker.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/eTmojyT07ekYRAIV.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Redcap Breaker.png"
         ],
         "variantPattern": null
       }
     },
     "w5ZBoxm8mq9wQz6l": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/w5ZBoxm8mq9wQz6l.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Redcap Butcher.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/w5ZBoxm8mq9wQz6l.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Redcap Butcher.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -1914,20 +1914,20 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Redcap Butcher",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/w5ZBoxm8mq9wQz6l.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/w5ZBoxm8mq9wQz6l.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Redcap Butcher.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Redcap Butcher.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/w5ZBoxm8mq9wQz6l.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Redcap Butcher.png"
         ],
         "variantPattern": null
       }
     },
     "YDgorr8UO4uxptAC": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/YDgorr8UO4uxptAC.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Redcap Candlemaker.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/YDgorr8UO4uxptAC.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Redcap Candlemaker.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -1944,20 +1944,20 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Redcap Candlemaker",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/YDgorr8UO4uxptAC.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/YDgorr8UO4uxptAC.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Redcap Candlemaker.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Redcap Candlemaker.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/YDgorr8UO4uxptAC.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Redcap Candlemaker.png"
         ],
         "variantPattern": null
       }
     },
     "lbXcMWCYhsCVWYNO": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/lbXcMWCYhsCVWYNO.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Redcap Skinner.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/lbXcMWCYhsCVWYNO.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Redcap Skinner.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -1974,10 +1974,10 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Redcap Skinner",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/lbXcMWCYhsCVWYNO.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/lbXcMWCYhsCVWYNO.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Redcap Skinner.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Redcap Skinner.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/lbXcMWCYhsCVWYNO.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Redcap Skinner.png"
         ],
         "variantPattern": null
       }
@@ -2018,11 +2018,11 @@
       }
     },
     "6Js480Q5SOGRGySm": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/6Js480Q5SOGRGySm.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Rugaru.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/6Js480Q5SOGRGySm.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Rugaru.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -2039,20 +2039,20 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Rugaru",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/6Js480Q5SOGRGySm.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/6Js480Q5SOGRGySm.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Rugaru.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Rugaru.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/6Js480Q5SOGRGySm.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Rugaru.png"
         ],
         "variantPattern": null
       }
     },
     "htdthg1pCYrovP0T": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/htdthg1pCYrovP0T.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Sawtoothed Gillbeast.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/htdthg1pCYrovP0T.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Sawtoothed Gillbeast.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -2069,10 +2069,10 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Sawtoothed Gillbeast",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/htdthg1pCYrovP0T.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/htdthg1pCYrovP0T.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Sawtoothed Gillbeast.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Sawtoothed Gillbeast.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/htdthg1pCYrovP0T.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Sawtoothed Gillbeast.png"
         ],
         "variantPattern": null
       }
@@ -2289,11 +2289,11 @@
       }
     },
     "QGtJtlNo0ACZUjE8": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/QGtJtlNo0ACZUjE8.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Soul-shattered Mage.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/QGtJtlNo0ACZUjE8.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Soul-shattered Mage.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -2310,10 +2310,10 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Soul-shattered Mage",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/QGtJtlNo0ACZUjE8.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/QGtJtlNo0ACZUjE8.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Soul-shattered Mage.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Soul-shattered Mage.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/QGtJtlNo0ACZUjE8.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Soul-shattered Mage.png"
         ],
         "variantPattern": null
       }
@@ -2359,11 +2359,11 @@
       }
     },
     "jTFawThYqDS5sOnH": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/jTFawThYqDS5sOnH.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Spellbound Armor.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/jTFawThYqDS5sOnH.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Spellbound Armor.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -2380,10 +2380,10 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Spellbound Armor",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/jTFawThYqDS5sOnH.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/jTFawThYqDS5sOnH.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Spellbound Armor.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Spellbound Armor.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/jTFawThYqDS5sOnH.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Spellbound Armor.png"
         ],
         "variantPattern": null
       }
@@ -2583,11 +2583,11 @@
       }
     },
     "u5DJUhMewgOwfc3U": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/u5DJUhMewgOwfc3U.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Viper.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/u5DJUhMewgOwfc3U.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Viper.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -2604,20 +2604,20 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Viper",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/u5DJUhMewgOwfc3U.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/u5DJUhMewgOwfc3U.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Viper.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Viper.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/u5DJUhMewgOwfc3U.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Viper.png"
         ],
         "variantPattern": null
       }
     },
     "QPTR2clyJ30idX3c": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/QPTR2clyJ30idX3c.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Waxwork Creation.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/QPTR2clyJ30idX3c.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Waxwork Creation.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -2634,10 +2634,10 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Waxwork Creation",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/QPTR2clyJ30idX3c.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/QPTR2clyJ30idX3c.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Waxwork Creation.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Waxwork Creation.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/QPTR2clyJ30idX3c.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Waxwork Creation.png"
         ],
         "variantPattern": null
       }
@@ -2676,11 +2676,11 @@
       }
     },
     "XuGDFgTjn1vFQhyA": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/XuGDFgTjn1vFQhyA.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Will-o'-the-wisps.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/XuGDFgTjn1vFQhyA.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Will-o'-the-wisps.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -2697,10 +2697,10 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Will-o'-the-wisps",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/XuGDFgTjn1vFQhyA.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/XuGDFgTjn1vFQhyA.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Will-o'-the-wisps.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Will-o'-the-wisps.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/XuGDFgTjn1vFQhyA.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Will-o'-the-wisps.png"
         ],
         "variantPattern": null
       }
@@ -2740,11 +2740,11 @@
       }
     },
     "RIrQcvhlSmXTqFxr": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/RIrQcvhlSmXTqFxr.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Yufo.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/RIrQcvhlSmXTqFxr.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Yufo.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -2761,10 +2761,10 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Yufo",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/RIrQcvhlSmXTqFxr.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/RIrQcvhlSmXTqFxr.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Yufo.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Yufo.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/RIrQcvhlSmXTqFxr.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Yufo.png"
         ],
         "variantPattern": null
       }
@@ -2907,11 +2907,11 @@
       }
     },
     "4bUnTk3t4VuZZmc7": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/4bUnTk3t4VuZZmc7.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Banshee.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/4bUnTk3t4VuZZmc7.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Banshee.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -2928,20 +2928,20 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Banshee",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/4bUnTk3t4VuZZmc7.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/4bUnTk3t4VuZZmc7.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Banshee.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Banshee.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/4bUnTk3t4VuZZmc7.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Banshee.png"
         ],
         "variantPattern": null
       }
     },
     "SkSS7dNTebMaancS": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/SkSS7dNTebMaancS.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Basilisk.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/SkSS7dNTebMaancS.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Basilisk.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -2958,10 +2958,10 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Basilisk",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/SkSS7dNTebMaancS.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/SkSS7dNTebMaancS.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Basilisk.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Basilisk.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/SkSS7dNTebMaancS.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Basilisk.png"
         ],
         "variantPattern": null
       }
@@ -3000,11 +3000,11 @@
       }
     },
     "12TRnUh7RzLIn30r": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/12TRnUh7RzLIn30r.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Berserker Alpha.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/12TRnUh7RzLIn30r.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Berserker Alpha.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -3021,20 +3021,20 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Berserker Alpha",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/12TRnUh7RzLIn30r.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/12TRnUh7RzLIn30r.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Berserker Alpha.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Berserker Alpha.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/12TRnUh7RzLIn30r.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Berserker Alpha.png"
         ],
         "variantPattern": null
       }
     },
     "CaFmEX2ccQfgIRja": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/CaFmEX2ccQfgIRja.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Berserker Initiate.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/CaFmEX2ccQfgIRja.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Berserker Initiate.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -3051,20 +3051,20 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Berserker Initiate",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/CaFmEX2ccQfgIRja.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/CaFmEX2ccQfgIRja.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Berserker Initiate.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Berserker Initiate.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/CaFmEX2ccQfgIRja.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Berserker Initiate.png"
         ],
         "variantPattern": null
       }
     },
     "tGHjaLIGEUzFygN7": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/tGHjaLIGEUzFygN7.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Centaur Warden.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/tGHjaLIGEUzFygN7.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Centaur Warden.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -3081,10 +3081,10 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Centaur Warden",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/tGHjaLIGEUzFygN7.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/tGHjaLIGEUzFygN7.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Centaur Warden.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Centaur Warden.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/tGHjaLIGEUzFygN7.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Centaur Warden.png"
         ],
         "variantPattern": null
       }
@@ -3124,11 +3124,11 @@
       }
     },
     "pOtg2aQs8iI3GzMV": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/pOtg2aQs8iI3GzMV.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Chicken-foot Hut.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/pOtg2aQs8iI3GzMV.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Chicken-foot Hut.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -3145,10 +3145,10 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Chicken-foot Hut",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/pOtg2aQs8iI3GzMV.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/pOtg2aQs8iI3GzMV.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Chicken-foot Hut.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Chicken-foot Hut.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/pOtg2aQs8iI3GzMV.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Chicken-foot Hut.png"
         ],
         "variantPattern": null
       }
@@ -3352,11 +3352,11 @@
       }
     },
     "BTapjzeIvySheRqF": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/BTapjzeIvySheRqF.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Dire Pangolati.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/BTapjzeIvySheRqF.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Dire Pangolati.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -3373,20 +3373,20 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Dire Pangolati",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/BTapjzeIvySheRqF.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/BTapjzeIvySheRqF.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Dire Pangolati.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Dire Pangolati.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/BTapjzeIvySheRqF.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Dire Pangolati.png"
         ],
         "variantPattern": null
       }
     },
     "cQ3IQkxfRhmLMySF": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/cQ3IQkxfRhmLMySF.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Doppelhound.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/cQ3IQkxfRhmLMySF.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Doppelhound.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -3403,20 +3403,20 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Doppelhound",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/cQ3IQkxfRhmLMySF.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/cQ3IQkxfRhmLMySF.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Doppelhound.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Doppelhound.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/cQ3IQkxfRhmLMySF.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Doppelhound.png"
         ],
         "variantPattern": null
       }
     },
     "qmiZk8Q9DGibINem": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/qmiZk8Q9DGibINem.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Dragon Knight.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/qmiZk8Q9DGibINem.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Dragon Knight.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -3433,10 +3433,10 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Dragon Knight",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/qmiZk8Q9DGibINem.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/qmiZk8Q9DGibINem.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Dragon Knight.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Dragon Knight.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/qmiZk8Q9DGibINem.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Dragon Knight.png"
         ],
         "variantPattern": null
       }
@@ -3475,11 +3475,11 @@
       }
     },
     "y0bPXxZES9huK9f5": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/y0bPXxZES9huK9f5.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Elephant.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/y0bPXxZES9huK9f5.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Elephant.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -3496,10 +3496,10 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Elephant",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/y0bPXxZES9huK9f5.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/y0bPXxZES9huK9f5.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Elephant.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Elephant.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/y0bPXxZES9huK9f5.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Elephant.png"
         ],
         "variantPattern": null
       }
@@ -3545,11 +3545,11 @@
       }
     },
     "0QPn79SMU6C0b1qi": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/0QPn79SMU6C0b1qi.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Entombed Cat Beast.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/0QPn79SMU6C0b1qi.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Entombed Cat Beast.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -3566,20 +3566,20 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Entombed Cat Beast",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/0QPn79SMU6C0b1qi.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/0QPn79SMU6C0b1qi.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Entombed Cat Beast.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Entombed Cat Beast.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/0QPn79SMU6C0b1qi.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Entombed Cat Beast.png"
         ],
         "variantPattern": null
       }
     },
     "etsuHXoRHqWBRI8N": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/etsuHXoRHqWBRI8N.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Entombed Elite Guard.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/etsuHXoRHqWBRI8N.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Entombed Elite Guard.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -3596,20 +3596,20 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Entombed Elite Guard",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/etsuHXoRHqWBRI8N.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/etsuHXoRHqWBRI8N.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Entombed Elite Guard.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Entombed Elite Guard.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/etsuHXoRHqWBRI8N.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Entombed Elite Guard.png"
         ],
         "variantPattern": null
       }
     },
     "L6QLw1rYK4qtdf1F": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/L6QLw1rYK4qtdf1F.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Entombed Empress.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/L6QLw1rYK4qtdf1F.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Entombed Empress.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -3626,20 +3626,20 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Entombed Empress",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/L6QLw1rYK4qtdf1F.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/L6QLw1rYK4qtdf1F.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Entombed Empress.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Entombed Empress.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/L6QLw1rYK4qtdf1F.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Entombed Empress.png"
         ],
         "variantPattern": null
       }
     },
     "BUjYC5kDjBoqNrC3": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/BUjYC5kDjBoqNrC3.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Entombed Necropriest.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/BUjYC5kDjBoqNrC3.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Entombed Necropriest.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -3656,20 +3656,20 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Entombed Necropriest",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/BUjYC5kDjBoqNrC3.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/BUjYC5kDjBoqNrC3.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Entombed Necropriest.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Entombed Necropriest.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/BUjYC5kDjBoqNrC3.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Entombed Necropriest.png"
         ],
         "variantPattern": null
       }
     },
     "BSLBG7hQ9K1HGlU6": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/BSLBG7hQ9K1HGlU6.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Entombed Skin Beetles.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/BSLBG7hQ9K1HGlU6.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Entombed Skin Beetles.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -3686,20 +3686,20 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Entombed Skin Beetles",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/BSLBG7hQ9K1HGlU6.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/BSLBG7hQ9K1HGlU6.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Entombed Skin Beetles.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Entombed Skin Beetles.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/BSLBG7hQ9K1HGlU6.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Entombed Skin Beetles.png"
         ],
         "variantPattern": null
       }
     },
     "cugsaVxMi9UCUNku": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/cugsaVxMi9UCUNku.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Entombed Stonemason.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/cugsaVxMi9UCUNku.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Entombed Stonemason.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -3716,10 +3716,10 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Entombed Stonemason",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/cugsaVxMi9UCUNku.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/cugsaVxMi9UCUNku.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Entombed Stonemason.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Entombed Stonemason.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/cugsaVxMi9UCUNku.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Entombed Stonemason.png"
         ],
         "variantPattern": null
       }
@@ -3761,11 +3761,11 @@
       }
     },
     "vWHynB75iGfOhTjn": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/vWHynB75iGfOhTjn.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Flock Of Feather Fiends.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/vWHynB75iGfOhTjn.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Flock Of Feather Fiends.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -3782,20 +3782,20 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Flock Of Feather Fiends",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/vWHynB75iGfOhTjn.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/vWHynB75iGfOhTjn.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Flock Of Feather Fiends.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Flock Of Feather Fiends.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/vWHynB75iGfOhTjn.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Flock Of Feather Fiends.png"
         ],
         "variantPattern": null
       }
     },
     "diyNjiVzyZEwYg1V": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/diyNjiVzyZEwYg1V.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Fowlbear.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/diyNjiVzyZEwYg1V.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Fowlbear.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -3812,20 +3812,20 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Fowlbear",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/diyNjiVzyZEwYg1V.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/diyNjiVzyZEwYg1V.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Fowlbear.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Fowlbear.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/diyNjiVzyZEwYg1V.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Fowlbear.png"
         ],
         "variantPattern": null
       }
     },
     "55oYzFQRmrXCqNxn": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/55oYzFQRmrXCqNxn.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Fungispunj Sporeling.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/55oYzFQRmrXCqNxn.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Fungispunj Sporeling.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -3842,20 +3842,20 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Fungispunj Sporeling",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/55oYzFQRmrXCqNxn.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/55oYzFQRmrXCqNxn.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Fungispunj Sporeling.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Fungispunj Sporeling.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/55oYzFQRmrXCqNxn.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Fungispunj Sporeling.png"
         ],
         "variantPattern": null
       }
     },
     "5BKK7pDRjRAgN3Nm": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/5BKK7pDRjRAgN3Nm.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Fungispunj Sporophore.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/5BKK7pDRjRAgN3Nm.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Fungispunj Sporophore.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -3872,20 +3872,20 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Fungispunj Sporophore",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/5BKK7pDRjRAgN3Nm.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/5BKK7pDRjRAgN3Nm.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Fungispunj Sporophore.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Fungispunj Sporophore.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/5BKK7pDRjRAgN3Nm.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Fungispunj Sporophore.png"
         ],
         "variantPattern": null
       }
     },
     "rTdLnKnuI8lu0kfv": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/rTdLnKnuI8lu0kfv.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Gargoyle.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/rTdLnKnuI8lu0kfv.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Gargoyle.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -3902,10 +3902,10 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Gargoyle",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/rTdLnKnuI8lu0kfv.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/rTdLnKnuI8lu0kfv.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Gargoyle.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Gargoyle.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/rTdLnKnuI8lu0kfv.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Gargoyle.png"
         ],
         "variantPattern": null
       }
@@ -4018,11 +4018,11 @@
       }
     },
     "TqL5DLSbGFI8RsLd": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/TqL5DLSbGFI8RsLd.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Giant Octopus.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/TqL5DLSbGFI8RsLd.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Giant Octopus.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -4039,10 +4039,10 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Giant Octopus",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/TqL5DLSbGFI8RsLd.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/TqL5DLSbGFI8RsLd.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Giant Octopus.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Giant Octopus.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/TqL5DLSbGFI8RsLd.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Giant Octopus.png"
         ],
         "variantPattern": null
       }
@@ -4082,11 +4082,11 @@
       }
     },
     "Nx7LCcitOvQvXb8X": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/Nx7LCcitOvQvXb8X.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Gobstalker.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/Nx7LCcitOvQvXb8X.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Gobstalker.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -4103,10 +4103,10 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Gobstalker",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Nx7LCcitOvQvXb8X.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/Nx7LCcitOvQvXb8X.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Gobstalker.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Gobstalker.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/Nx7LCcitOvQvXb8X.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Gobstalker.png"
         ],
         "variantPattern": null
       }
@@ -4147,11 +4147,11 @@
       }
     },
     "AagRRy7uZr9k7tDH": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/AagRRy7uZr9k7tDH.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Guahalan Alebrujo.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/AagRRy7uZr9k7tDH.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Guahalan Alebrujo.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -4168,20 +4168,20 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Guahalan Alebrujo",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/AagRRy7uZr9k7tDH.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/AagRRy7uZr9k7tDH.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Guahalan Alebrujo.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Guahalan Alebrujo.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/AagRRy7uZr9k7tDH.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Guahalan Alebrujo.png"
         ],
         "variantPattern": null
       }
     },
     "YFPpMT6zZQwzIJIu": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/YFPpMT6zZQwzIJIu.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Guahalan Fang Lord.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/YFPpMT6zZQwzIJIu.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Guahalan Fang Lord.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -4198,20 +4198,20 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Guahalan Fang Lord",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/YFPpMT6zZQwzIJIu.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/YFPpMT6zZQwzIJIu.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Guahalan Fang Lord.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Guahalan Fang Lord.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/YFPpMT6zZQwzIJIu.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Guahalan Fang Lord.png"
         ],
         "variantPattern": null
       }
     },
     "cRujJUHzQvzwWZtj": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/cRujJUHzQvzwWZtj.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Guahalan Shifter.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/cRujJUHzQvzwWZtj.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Guahalan Shifter.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -4228,20 +4228,20 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Guahalan Shifter",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/cRujJUHzQvzwWZtj.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/cRujJUHzQvzwWZtj.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Guahalan Shifter.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Guahalan Shifter.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/cRujJUHzQvzwWZtj.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Guahalan Shifter.png"
         ],
         "variantPattern": null
       }
     },
     "PV0FTOWQWLw3PDlY": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/PV0FTOWQWLw3PDlY.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Guahalan Spirit Beast.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/PV0FTOWQWLw3PDlY.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Guahalan Spirit Beast.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -4258,20 +4258,20 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Guahalan Spirit Beast",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/PV0FTOWQWLw3PDlY.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/PV0FTOWQWLw3PDlY.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Guahalan Spirit Beast.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Guahalan Spirit Beast.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/PV0FTOWQWLw3PDlY.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Guahalan Spirit Beast.png"
         ],
         "variantPattern": null
       }
     },
     "9K39Wga6Lj5y0g8M": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/9K39Wga6Lj5y0g8M.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Guahalan Spirit Singer.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/9K39Wga6Lj5y0g8M.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Guahalan Spirit Singer.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -4288,20 +4288,20 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Guahalan Spirit Singer",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/9K39Wga6Lj5y0g8M.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/9K39Wga6Lj5y0g8M.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Guahalan Spirit Singer.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Guahalan Spirit Singer.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/9K39Wga6Lj5y0g8M.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Guahalan Spirit Singer.png"
         ],
         "variantPattern": null
       }
     },
     "321E0ZexRT4zjpKu": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/321E0ZexRT4zjpKu.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Hill Titan.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/321E0ZexRT4zjpKu.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Hill Titan.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -4318,20 +4318,20 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Hill Titan",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/321E0ZexRT4zjpKu.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/321E0ZexRT4zjpKu.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Hill Titan.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Hill Titan.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/321E0ZexRT4zjpKu.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Hill Titan.png"
         ],
         "variantPattern": null
       }
     },
     "MydEcpmRKsHt1snu": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/MydEcpmRKsHt1snu.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Hive Walker.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/MydEcpmRKsHt1snu.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Hive Walker.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -4348,20 +4348,20 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Hive Walker",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/MydEcpmRKsHt1snu.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/MydEcpmRKsHt1snu.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Hive Walker.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Hive Walker.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/MydEcpmRKsHt1snu.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Hive Walker.png"
         ],
         "variantPattern": null
       }
     },
     "qhMbIUVeD7BWuRKJ": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/qhMbIUVeD7BWuRKJ.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Jack-o'-lantern.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/qhMbIUVeD7BWuRKJ.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Jack-o'-lantern.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -4378,10 +4378,10 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Jack-o'-lantern",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/qhMbIUVeD7BWuRKJ.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/qhMbIUVeD7BWuRKJ.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Jack-o'-lantern.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Jack-o'-lantern.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/qhMbIUVeD7BWuRKJ.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Jack-o'-lantern.png"
         ],
         "variantPattern": null
       }
@@ -4455,11 +4455,11 @@
       }
     },
     "A9EuHHWa6UmN7khR": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/A9EuHHWa6UmN7khR.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Landshark.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/A9EuHHWa6UmN7khR.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Landshark.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -4476,20 +4476,20 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Landshark",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/A9EuHHWa6UmN7khR.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/A9EuHHWa6UmN7khR.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Landshark.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Landshark.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/A9EuHHWa6UmN7khR.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Landshark.png"
         ],
         "variantPattern": null
       }
     },
     "87vG6DpVjMuRMR8Q": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/87vG6DpVjMuRMR8Q.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Landshark Behemoth.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/87vG6DpVjMuRMR8Q.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Landshark Behemoth.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -4506,10 +4506,10 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Landshark Behemoth",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/87vG6DpVjMuRMR8Q.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/87vG6DpVjMuRMR8Q.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Landshark Behemoth.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Landshark Behemoth.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/87vG6DpVjMuRMR8Q.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Landshark Behemoth.png"
         ],
         "variantPattern": null
       }
@@ -4699,11 +4699,11 @@
       }
     },
     "Nj9E7DLb7UakiKz6": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/Nj9E7DLb7UakiKz6.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Ravenous Mockery.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/Nj9E7DLb7UakiKz6.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Ravenous Mockery.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -4720,10 +4720,10 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Ravenous Mockery",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Nj9E7DLb7UakiKz6.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/Nj9E7DLb7UakiKz6.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Ravenous Mockery.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Ravenous Mockery.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/Nj9E7DLb7UakiKz6.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Ravenous Mockery.png"
         ],
         "variantPattern": null
       }
@@ -4766,11 +4766,11 @@
       }
     },
     "y6dI50LstfCrlVfY": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/y6dI50LstfCrlVfY.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Rust Eater.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/y6dI50LstfCrlVfY.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Rust Eater.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -4787,20 +4787,20 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Rust Eater",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/y6dI50LstfCrlVfY.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/y6dI50LstfCrlVfY.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Rust Eater.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Rust Eater.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/y6dI50LstfCrlVfY.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Rust Eater.png"
         ],
         "variantPattern": null
       }
     },
     "lOIaoJscG3he5thc": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/lOIaoJscG3he5thc.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Scarecrow.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/lOIaoJscG3he5thc.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Scarecrow.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -4817,10 +4817,10 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Scarecrow",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/lOIaoJscG3he5thc.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/lOIaoJscG3he5thc.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Scarecrow.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Scarecrow.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/lOIaoJscG3he5thc.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Scarecrow.png"
         ],
         "variantPattern": null
       }
@@ -5036,11 +5036,11 @@
       }
     },
     "iQL0zE7vRLZSZ2TI": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/iQL0zE7vRLZSZ2TI.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Sprite.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/iQL0zE7vRLZSZ2TI.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Sprite.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -5057,10 +5057,10 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Sprite",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/iQL0zE7vRLZSZ2TI.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/iQL0zE7vRLZSZ2TI.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Sprite.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Sprite.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/iQL0zE7vRLZSZ2TI.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Sprite.png"
         ],
         "variantPattern": null
       }
@@ -5101,11 +5101,11 @@
       }
     },
     "ufQMOWgcGspqyGln": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/ufQMOWgcGspqyGln.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Stone Titan.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/ufQMOWgcGspqyGln.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Stone Titan.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -5122,10 +5122,10 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Stone Titan",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/ufQMOWgcGspqyGln.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/ufQMOWgcGspqyGln.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Stone Titan.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Stone Titan.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/ufQMOWgcGspqyGln.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Stone Titan.png"
         ],
         "variantPattern": null
       }
@@ -5167,11 +5167,11 @@
       }
     },
     "nbdEW8HTS25uEiWZ": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/nbdEW8HTS25uEiWZ.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Triceratops.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/nbdEW8HTS25uEiWZ.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Triceratops.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -5188,20 +5188,20 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Triceratops",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/nbdEW8HTS25uEiWZ.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/nbdEW8HTS25uEiWZ.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Triceratops.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Triceratops.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/nbdEW8HTS25uEiWZ.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Triceratops.png"
         ],
         "variantPattern": null
       }
     },
     "IrWRZcwshGOppa5K": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/IrWRZcwshGOppa5K.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Tyrannosaurus.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/IrWRZcwshGOppa5K.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Tyrannosaurus.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -5218,20 +5218,20 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Tyrannosaurus",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/IrWRZcwshGOppa5K.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/IrWRZcwshGOppa5K.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Tyrannosaurus.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Tyrannosaurus.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/IrWRZcwshGOppa5K.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Tyrannosaurus.png"
         ],
         "variantPattern": null
       }
     },
     "6kvqeoKIIFEcEHNQ": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/6kvqeoKIIFEcEHNQ.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Urco.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/6kvqeoKIIFEcEHNQ.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Urco.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -5248,20 +5248,20 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Urco",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/6kvqeoKIIFEcEHNQ.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/6kvqeoKIIFEcEHNQ.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Urco.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Urco.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/6kvqeoKIIFEcEHNQ.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Urco.png"
         ],
         "variantPattern": null
       }
     },
     "Xq00qigdsoB2b3gJ": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/Xq00qigdsoB2b3gJ.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Valdenhax.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/Xq00qigdsoB2b3gJ.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Valdenhax.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -5278,10 +5278,10 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Valdenhax",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Xq00qigdsoB2b3gJ.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/Xq00qigdsoB2b3gJ.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Valdenhax.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Valdenhax.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/Xq00qigdsoB2b3gJ.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Valdenhax.png"
         ],
         "variantPattern": null
       }
@@ -5357,11 +5357,11 @@
       }
     },
     "FNNt42hhwvuOc4XO": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/FNNt42hhwvuOc4XO.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Archmage.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/FNNt42hhwvuOc4XO.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Archmage.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -5378,20 +5378,20 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Archmage",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/FNNt42hhwvuOc4XO.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/FNNt42hhwvuOc4XO.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Archmage.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Archmage.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/FNNt42hhwvuOc4XO.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Archmage.png"
         ],
         "variantPattern": null
       }
     },
     "UxOoHSEzxIjTpZws": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/UxOoHSEzxIjTpZws.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Catrin.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/UxOoHSEzxIjTpZws.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Catrin.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -5408,20 +5408,20 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Catrin",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/UxOoHSEzxIjTpZws.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/UxOoHSEzxIjTpZws.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Catrin.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Catrin.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/UxOoHSEzxIjTpZws.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Catrin.png"
         ],
         "variantPattern": null
       }
     },
     "RV9j8V7CcuZYEhec": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/RV9j8V7CcuZYEhec.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Chimera.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/RV9j8V7CcuZYEhec.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Chimera.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -5438,20 +5438,20 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Chimera",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/RV9j8V7CcuZYEhec.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/RV9j8V7CcuZYEhec.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Chimera.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Chimera.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/RV9j8V7CcuZYEhec.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Chimera.png"
         ],
         "variantPattern": null
       }
     },
     "vpzDW0774xXJhNHy": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/vpzDW0774xXJhNHy.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Crimson Lepus.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/vpzDW0774xXJhNHy.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Crimson Lepus.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -5468,20 +5468,20 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Crimson Lepus",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/vpzDW0774xXJhNHy.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/vpzDW0774xXJhNHy.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Crimson Lepus.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Crimson Lepus.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/vpzDW0774xXJhNHy.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Crimson Lepus.png"
         ],
         "variantPattern": null
       }
     },
     "nrcRGYmyMy2vBJXl": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/nrcRGYmyMy2vBJXl.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Cryptimoth.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/nrcRGYmyMy2vBJXl.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Cryptimoth.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -5498,20 +5498,20 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Cryptimoth",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/nrcRGYmyMy2vBJXl.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/nrcRGYmyMy2vBJXl.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Cryptimoth.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Cryptimoth.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/nrcRGYmyMy2vBJXl.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Cryptimoth.png"
         ],
         "variantPattern": null
       }
     },
     "vw7PTv0hdDRCXhus": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/vw7PTv0hdDRCXhus.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Cursed Merfolk.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/vw7PTv0hdDRCXhus.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Cursed Merfolk.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -5528,20 +5528,20 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Cursed Merfolk",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/vw7PTv0hdDRCXhus.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/vw7PTv0hdDRCXhus.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Cursed Merfolk.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Cursed Merfolk.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/vw7PTv0hdDRCXhus.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Cursed Merfolk.png"
         ],
         "variantPattern": null
       }
     },
     "Wy9Dx05ulqeybn4h": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/Wy9Dx05ulqeybn4h.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Deep Dweller.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/Wy9Dx05ulqeybn4h.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Deep Dweller.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -5558,10 +5558,10 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Deep Dweller",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Wy9Dx05ulqeybn4h.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/Wy9Dx05ulqeybn4h.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Deep Dweller.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Deep Dweller.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/Wy9Dx05ulqeybn4h.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Deep Dweller.png"
         ],
         "variantPattern": null
       }
@@ -5761,11 +5761,11 @@
       }
     },
     "VQjfu6GFyNlFSMgH": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/VQjfu6GFyNlFSMgH.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Drake.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/VQjfu6GFyNlFSMgH.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Drake.png",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -5782,12 +5782,13 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Drake",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/VQjfu6GFyNlFSMgH.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/VQjfu6GFyNlFSMgH.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Drake.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Drake.png",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/VQjfu6GFyNlFSMgH.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Drake.png"
         ],
-        "variantPattern": null
+        "variantPattern": null,
+        "artRevision": "animation-wyvern-reference-2026-10-01"
       }
     },
     "wR7cFKrHvRzbzhBT": {
@@ -5824,11 +5825,11 @@
       }
     },
     "ldbXoTbf1lnZzXjt": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/ldbXoTbf1lnZzXjt.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Dullahan.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/ldbXoTbf1lnZzXjt.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Dullahan.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -5845,10 +5846,10 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Dullahan",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/ldbXoTbf1lnZzXjt.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/ldbXoTbf1lnZzXjt.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Dullahan.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Dullahan.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/ldbXoTbf1lnZzXjt.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Dullahan.png"
         ],
         "variantPattern": null
       }
@@ -5887,11 +5888,11 @@
       }
     },
     "q3BOz4DSAIAvvJGK": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/q3BOz4DSAIAvvJGK.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Fellmounted Shadow King.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/q3BOz4DSAIAvvJGK.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Fellmounted Shadow King.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -5908,20 +5909,20 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Fellmounted Shadow King",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/q3BOz4DSAIAvvJGK.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/q3BOz4DSAIAvvJGK.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Fellmounted Shadow King.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Fellmounted Shadow King.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/q3BOz4DSAIAvvJGK.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Fellmounted Shadow King.png"
         ],
         "variantPattern": null
       }
     },
     "borKEokmyZ8gOkK3": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/borKEokmyZ8gOkK3.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Fire Titan.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/borKEokmyZ8gOkK3.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Fire Titan.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -5938,20 +5939,20 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Fire Titan",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/borKEokmyZ8gOkK3.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/borKEokmyZ8gOkK3.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Fire Titan.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Fire Titan.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/borKEokmyZ8gOkK3.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Fire Titan.png"
         ],
         "variantPattern": null
       }
     },
     "qdmY1ZJcnAaVvJQD": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/qdmY1ZJcnAaVvJQD.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Frost Titan.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/qdmY1ZJcnAaVvJQD.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Frost Titan.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -5968,20 +5969,20 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Frost Titan",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/qdmY1ZJcnAaVvJQD.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/qdmY1ZJcnAaVvJQD.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Frost Titan.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Frost Titan.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/qdmY1ZJcnAaVvJQD.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Frost Titan.png"
         ],
         "variantPattern": null
       }
     },
     "mXXYdmgqAKKZD4tB": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/mXXYdmgqAKKZD4tB.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Gargantuan Sea Turtle.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/mXXYdmgqAKKZD4tB.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Gargantuan Sea Turtle.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -5998,10 +5999,10 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Gargantuan Sea Turtle",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/mXXYdmgqAKKZD4tB.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/mXXYdmgqAKKZD4tB.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Gargantuan Sea Turtle.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Gargantuan Sea Turtle.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/mXXYdmgqAKKZD4tB.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Gargantuan Sea Turtle.png"
         ],
         "variantPattern": null
       }
@@ -6178,11 +6179,11 @@
       }
     },
     "pMZxHeu79iXFV9FR": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/pMZxHeu79iXFV9FR.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Lamia.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/pMZxHeu79iXFV9FR.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Lamia.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -6199,20 +6200,20 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Lamia",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/pMZxHeu79iXFV9FR.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/pMZxHeu79iXFV9FR.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Lamia.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Lamia.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/pMZxHeu79iXFV9FR.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Lamia.png"
         ],
         "variantPattern": null
       }
     },
     "Z94eIkkO3msHVU0R": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/Z94eIkkO3msHVU0R.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Lamplight Beguiler.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/Z94eIkkO3msHVU0R.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Lamplight Beguiler.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -6229,20 +6230,20 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Lamplight Beguiler",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Z94eIkkO3msHVU0R.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/Z94eIkkO3msHVU0R.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Lamplight Beguiler.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Lamplight Beguiler.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/Z94eIkkO3msHVU0R.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Lamplight Beguiler.png"
         ],
         "variantPattern": null
       }
     },
     "OoxQXYk6UDb5MNhx": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/OoxQXYk6UDb5MNhx.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Manticore.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/OoxQXYk6UDb5MNhx.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Manticore.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -6259,10 +6260,10 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Manticore",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/OoxQXYk6UDb5MNhx.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/OoxQXYk6UDb5MNhx.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Manticore.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Manticore.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/OoxQXYk6UDb5MNhx.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Manticore.png"
         ],
         "variantPattern": null
       }
@@ -6309,11 +6310,11 @@
       }
     },
     "woVws0rcFaedtW3g": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/woVws0rcFaedtW3g.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Night Children.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/woVws0rcFaedtW3g.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Night Children.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -6330,10 +6331,10 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Night Children",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/woVws0rcFaedtW3g.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/woVws0rcFaedtW3g.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Night Children.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Night Children.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/woVws0rcFaedtW3g.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Night Children.png"
         ],
         "variantPattern": null
       }
@@ -6372,11 +6373,11 @@
       }
     },
     "RKdp5SOjwx1CHtaZ": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/RKdp5SOjwx1CHtaZ.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Pain Priest.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/RKdp5SOjwx1CHtaZ.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Pain Priest.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -6393,20 +6394,20 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Pain Priest",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/RKdp5SOjwx1CHtaZ.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/RKdp5SOjwx1CHtaZ.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Pain Priest.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Pain Priest.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/RKdp5SOjwx1CHtaZ.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Pain Priest.png"
         ],
         "variantPattern": null
       }
     },
     "OmhCH4TmAEiQx9he": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/OmhCH4TmAEiQx9he.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Phoenix.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/OmhCH4TmAEiQx9he.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Phoenix.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -6423,20 +6424,20 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Phoenix",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/OmhCH4TmAEiQx9he.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/OmhCH4TmAEiQx9he.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Phoenix.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Phoenix.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/OmhCH4TmAEiQx9he.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Phoenix.png"
         ],
         "variantPattern": null
       }
     },
     "KUevwJakVF7byrgT": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/KUevwJakVF7byrgT.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Plesiosaurus.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/KUevwJakVF7byrgT.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Plesiosaurus.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -6453,20 +6454,20 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Plesiosaurus",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/KUevwJakVF7byrgT.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/KUevwJakVF7byrgT.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Plesiosaurus.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Plesiosaurus.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/KUevwJakVF7byrgT.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Plesiosaurus.png"
         ],
         "variantPattern": null
       }
     },
     "c0ivcxYHIW2t1cXV": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/c0ivcxYHIW2t1cXV.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Roc.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/c0ivcxYHIW2t1cXV.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Roc.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -6483,20 +6484,20 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Roc",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/c0ivcxYHIW2t1cXV.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/c0ivcxYHIW2t1cXV.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Roc.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Roc.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/c0ivcxYHIW2t1cXV.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Roc.png"
         ],
         "variantPattern": null
       }
     },
     "GGljGjIJzx1WKLfD": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/GGljGjIJzx1WKLfD.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Sandwyrm.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/GGljGjIJzx1WKLfD.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Sandwyrm.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -6513,20 +6514,20 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Sandwyrm",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/GGljGjIJzx1WKLfD.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/GGljGjIJzx1WKLfD.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Sandwyrm.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Sandwyrm.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/GGljGjIJzx1WKLfD.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Sandwyrm.png"
         ],
         "variantPattern": null
       }
     },
     "C652lQ56oZWBhdNz": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/C652lQ56oZWBhdNz.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Shapeshifting Fiend.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/C652lQ56oZWBhdNz.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Shapeshifting Fiend.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -6543,20 +6544,20 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Shapeshifting Fiend",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/C652lQ56oZWBhdNz.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/C652lQ56oZWBhdNz.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Shapeshifting Fiend.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Shapeshifting Fiend.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/C652lQ56oZWBhdNz.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Shapeshifting Fiend.png"
         ],
         "variantPattern": null
       }
     },
     "fa50qKab3hPt9gkV": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/fa50qKab3hPt9gkV.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Shapeshifting Fiend Revealed.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/fa50qKab3hPt9gkV.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Shapeshifting Fiend Revealed.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -6573,10 +6574,10 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Shapeshifting Fiend Revealed",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/fa50qKab3hPt9gkV.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/fa50qKab3hPt9gkV.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Shapeshifting Fiend Revealed.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Shapeshifting Fiend Revealed.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/fa50qKab3hPt9gkV.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Shapeshifting Fiend Revealed.png"
         ],
         "variantPattern": null
       }
@@ -6615,11 +6616,11 @@
       }
     },
     "tLHNONmalytgnngv": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/tLHNONmalytgnngv.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Storm Titan.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/tLHNONmalytgnngv.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Storm Titan.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -6636,10 +6637,10 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Storm Titan",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/tLHNONmalytgnngv.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/tLHNONmalytgnngv.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Storm Titan.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Storm Titan.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/tLHNONmalytgnngv.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Storm Titan.png"
         ],
         "variantPattern": null
       }
@@ -6678,11 +6679,11 @@
       }
     },
     "GwEwP2FnWOT6ONZw": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/GwEwP2FnWOT6ONZw.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Unicorn.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/GwEwP2FnWOT6ONZw.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Unicorn.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -6699,10 +6700,10 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Unicorn",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/GwEwP2FnWOT6ONZw.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/GwEwP2FnWOT6ONZw.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Unicorn.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Unicorn.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/GwEwP2FnWOT6ONZw.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Unicorn.png"
         ],
         "variantPattern": null
       }
@@ -6745,11 +6746,11 @@
       }
     },
     "2OjMAjcG3xbbsrIV": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/2OjMAjcG3xbbsrIV.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Vampire Bat Swarm.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/2OjMAjcG3xbbsrIV.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Vampire Bat Swarm.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -6766,20 +6767,20 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Vampire Bat Swarm",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/2OjMAjcG3xbbsrIV.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/2OjMAjcG3xbbsrIV.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Vampire Bat Swarm.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Vampire Bat Swarm.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/2OjMAjcG3xbbsrIV.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Vampire Bat Swarm.png"
         ],
         "variantPattern": null
       }
     },
     "TVnr955huZCjXrHM": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/TVnr955huZCjXrHM.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Vampire Lord.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/TVnr955huZCjXrHM.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Vampire Lord.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -6796,10 +6797,10 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Vampire Lord",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/TVnr955huZCjXrHM.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/TVnr955huZCjXrHM.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Vampire Lord.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Vampire Lord.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/TVnr955huZCjXrHM.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Vampire Lord.png"
         ],
         "variantPattern": null
       }
@@ -6906,11 +6907,11 @@
       }
     },
     "IQzeEU2nWWlBhBrX": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/IQzeEU2nWWlBhBrX.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Viscera Sucker.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/IQzeEU2nWWlBhBrX.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Viscera Sucker.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -6927,20 +6928,20 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Viscera Sucker",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/IQzeEU2nWWlBhBrX.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/IQzeEU2nWWlBhBrX.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Viscera Sucker.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Viscera Sucker.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/IQzeEU2nWWlBhBrX.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Viscera Sucker.png"
         ],
         "variantPattern": null
       }
     },
     "iT3pDkKEtPTqM8kw": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/iT3pDkKEtPTqM8kw.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Whisper Wraith.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/iT3pDkKEtPTqM8kw.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Whisper Wraith.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -6957,20 +6958,20 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Whisper Wraith",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/iT3pDkKEtPTqM8kw.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/iT3pDkKEtPTqM8kw.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Whisper Wraith.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Whisper Wraith.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/iT3pDkKEtPTqM8kw.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Whisper Wraith.png"
         ],
         "variantPattern": null
       }
     },
     "h5SPwKivPFqMgOrW": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/h5SPwKivPFqMgOrW.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Wyvern.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/h5SPwKivPFqMgOrW.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Wyvern.png",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -6987,20 +6988,21 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Wyvern",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/h5SPwKivPFqMgOrW.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/h5SPwKivPFqMgOrW.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Wyvern.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Wyvern.png",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/h5SPwKivPFqMgOrW.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Wyvern.png"
         ],
-        "variantPattern": null
+        "variantPattern": null,
+        "artRevision": "animation-wyvern-reference-2026-10-01"
       }
     },
     "qe2bhZCyVou4lTO5": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/qe2bhZCyVou4lTO5.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Young Fire Dragon.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/qe2bhZCyVou4lTO5.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Young Fire Dragon.png",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -7017,12 +7019,13 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Young Fire Dragon",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/qe2bhZCyVou4lTO5.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/qe2bhZCyVou4lTO5.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Young Fire Dragon.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Young Fire Dragon.png",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/qe2bhZCyVou4lTO5.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Young Fire Dragon.png"
         ],
-        "variantPattern": null
+        "variantPattern": null,
+        "artRevision": "animation-wyvern-reference-2026-10-01"
       }
     },
     "UGPiPLJsPvMTSKEF": {
@@ -7092,11 +7095,11 @@
       }
     },
     "XEZbNjjrhyioE7YP": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/XEZbNjjrhyioE7YP.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Cephilith Abomination.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/XEZbNjjrhyioE7YP.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Cephilith Abomination.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -7113,20 +7116,20 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Cephilith Abomination",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/XEZbNjjrhyioE7YP.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/XEZbNjjrhyioE7YP.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Cephilith Abomination.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Cephilith Abomination.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/XEZbNjjrhyioE7YP.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Cephilith Abomination.png"
         ],
         "variantPattern": null
       }
     },
     "I8ClqowcEUMUNVdn": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/I8ClqowcEUMUNVdn.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Cephilith Hatchling.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/I8ClqowcEUMUNVdn.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Cephilith Hatchling.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -7143,20 +7146,20 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Cephilith Hatchling",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/I8ClqowcEUMUNVdn.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/I8ClqowcEUMUNVdn.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Cephilith Hatchling.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Cephilith Hatchling.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/I8ClqowcEUMUNVdn.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Cephilith Hatchling.png"
         ],
         "variantPattern": null
       }
     },
     "kA7erU1gkzB84PDY": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/kA7erU1gkzB84PDY.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Cephilith Novitiate.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/kA7erU1gkzB84PDY.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Cephilith Novitiate.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -7173,20 +7176,20 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Cephilith Novitiate",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/kA7erU1gkzB84PDY.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/kA7erU1gkzB84PDY.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Cephilith Novitiate.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Cephilith Novitiate.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/kA7erU1gkzB84PDY.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Cephilith Novitiate.png"
         ],
         "variantPattern": null
       }
     },
     "2G7IfajsxWczY04t": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/2G7IfajsxWczY04t.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Cephilith Priest.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/2G7IfajsxWczY04t.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Cephilith Priest.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -7203,20 +7206,20 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Cephilith Priest",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/2G7IfajsxWczY04t.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/2G7IfajsxWczY04t.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Cephilith Priest.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Cephilith Priest.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/2G7IfajsxWczY04t.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Cephilith Priest.png"
         ],
         "variantPattern": null
       }
     },
     "702jiZPmXM5Hucwj": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/702jiZPmXM5Hucwj.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Cephilith Titan.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/702jiZPmXM5Hucwj.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Cephilith Titan.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -7233,20 +7236,20 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Cephilith Titan",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/702jiZPmXM5Hucwj.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/702jiZPmXM5Hucwj.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Cephilith Titan.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Cephilith Titan.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/702jiZPmXM5Hucwj.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Cephilith Titan.png"
         ],
         "variantPattern": null
       }
     },
     "HFpYk4dxDMx9emHs": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/HFpYk4dxDMx9emHs.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Cipactli.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/HFpYk4dxDMx9emHs.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Cipactli.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -7263,20 +7266,20 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Cipactli",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/HFpYk4dxDMx9emHs.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/HFpYk4dxDMx9emHs.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Cipactli.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Cipactli.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/HFpYk4dxDMx9emHs.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Cipactli.png"
         ],
         "variantPattern": null
       }
     },
     "O9b1SOGmjhRszm75": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/O9b1SOGmjhRszm75.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Cloud Titan.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/O9b1SOGmjhRszm75.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Cloud Titan.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -7293,20 +7296,20 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Cloud Titan",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/O9b1SOGmjhRszm75.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/O9b1SOGmjhRszm75.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Cloud Titan.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Cloud Titan.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/O9b1SOGmjhRszm75.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Cloud Titan.png"
         ],
         "variantPattern": null
       }
     },
     "FeIMCgQ5ZMRRDo4d": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/FeIMCgQ5ZMRRDo4d.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Demon Lord Berzug.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/FeIMCgQ5ZMRRDo4d.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Demon Lord Berzug.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -7323,20 +7326,20 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Demon Lord Berzug",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/FeIMCgQ5ZMRRDo4d.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/FeIMCgQ5ZMRRDo4d.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Demon Lord Berzug.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Demon Lord Berzug.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/FeIMCgQ5ZMRRDo4d.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Demon Lord Berzug.png"
         ],
         "variantPattern": null
       }
     },
     "FGnHhvctM9bka3Zj": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/FGnHhvctM9bka3Zj.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Dragon Mother Mitera.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/FGnHhvctM9bka3Zj.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Dragon Mother Mitera.png",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -7353,12 +7356,13 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Dragon Mother Mitera",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/FGnHhvctM9bka3Zj.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/FGnHhvctM9bka3Zj.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Dragon Mother Mitera.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Dragon Mother Mitera.png",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/FGnHhvctM9bka3Zj.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Dragon Mother Mitera.png"
         ],
-        "variantPattern": null
+        "variantPattern": null,
+        "artRevision": "animation-wyvern-reference-2026-10-01"
       }
     },
     "OsLG2BjaEdTZUJU9": {
@@ -7495,11 +7499,11 @@
       }
     },
     "PjkvJjlljFIg6Ae9": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/PjkvJjlljFIg6Ae9.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Fire Titan Warlord.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/PjkvJjlljFIg6Ae9.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Fire Titan Warlord.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -7516,20 +7520,20 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Fire Titan Warlord",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/PjkvJjlljFIg6Ae9.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/PjkvJjlljFIg6Ae9.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Fire Titan Warlord.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Fire Titan Warlord.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/PjkvJjlljFIg6Ae9.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Fire Titan Warlord.png"
         ],
         "variantPattern": null
       }
     },
     "iCiRtuBhVfojXOj5": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/iCiRtuBhVfojXOj5.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Gargantuan War Machine.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/iCiRtuBhVfojXOj5.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Gargantuan War Machine.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -7546,20 +7550,20 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Gargantuan War Machine",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/iCiRtuBhVfojXOj5.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/iCiRtuBhVfojXOj5.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Gargantuan War Machine.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Gargantuan War Machine.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/iCiRtuBhVfojXOj5.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Gargantuan War Machine.png"
         ],
         "variantPattern": null
       }
     },
     "Tg1F1PthQWeKdLJT": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/Tg1F1PthQWeKdLJT.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Ghastly Legion.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/Tg1F1PthQWeKdLJT.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Ghastly Legion.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -7576,20 +7580,20 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Ghastly Legion",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Tg1F1PthQWeKdLJT.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/Tg1F1PthQWeKdLJT.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Ghastly Legion.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Ghastly Legion.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/Tg1F1PthQWeKdLJT.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Ghastly Legion.png"
         ],
         "variantPattern": null
       }
     },
     "CJtnIPvyAmv6PFsu": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/CJtnIPvyAmv6PFsu.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Griffin.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/CJtnIPvyAmv6PFsu.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Griffin.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -7606,10 +7610,10 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Griffin",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/CJtnIPvyAmv6PFsu.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/CJtnIPvyAmv6PFsu.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Griffin.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Griffin.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/CJtnIPvyAmv6PFsu.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Griffin.png"
         ],
         "variantPattern": null
       }
@@ -7648,11 +7652,11 @@
       }
     },
     "68xDUa9Ls48O825Z": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/68xDUa9Ls48O825Z.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Hallowed Choir.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/68xDUa9Ls48O825Z.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Hallowed Choir.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -7669,10 +7673,10 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Hallowed Choir",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/68xDUa9Ls48O825Z.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/68xDUa9Ls48O825Z.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Hallowed Choir.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Hallowed Choir.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/68xDUa9Ls48O825Z.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Hallowed Choir.png"
         ],
         "variantPattern": null
       }
@@ -7711,11 +7715,11 @@
       }
     },
     "unuX3PZSkhlNUdVF": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/unuX3PZSkhlNUdVF.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Harbinger Of Death.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/unuX3PZSkhlNUdVF.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Harbinger Of Death.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -7732,20 +7736,20 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Harbinger Of Death",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/unuX3PZSkhlNUdVF.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/unuX3PZSkhlNUdVF.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Harbinger Of Death.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Harbinger Of Death.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/unuX3PZSkhlNUdVF.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Harbinger Of Death.png"
         ],
         "variantPattern": null
       }
     },
     "2dmAOdPMFN6e4BV6": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/2dmAOdPMFN6e4BV6.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Harbinger Of Famine.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/2dmAOdPMFN6e4BV6.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Harbinger Of Famine.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -7762,20 +7766,20 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Harbinger Of Famine",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/2dmAOdPMFN6e4BV6.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/2dmAOdPMFN6e4BV6.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Harbinger Of Famine.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Harbinger Of Famine.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/2dmAOdPMFN6e4BV6.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Harbinger Of Famine.png"
         ],
         "variantPattern": null
       }
     },
     "PwAVKf3IhLYD8JTJ": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/PwAVKf3IhLYD8JTJ.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Harbinger Of Pestilence.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/PwAVKf3IhLYD8JTJ.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Harbinger Of Pestilence.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -7792,20 +7796,20 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Harbinger Of Pestilence",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/PwAVKf3IhLYD8JTJ.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/PwAVKf3IhLYD8JTJ.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Harbinger Of Pestilence.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Harbinger Of Pestilence.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/PwAVKf3IhLYD8JTJ.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Harbinger Of Pestilence.png"
         ],
         "variantPattern": null
       }
     },
     "G7LS7f4StFvtPPG7": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/G7LS7f4StFvtPPG7.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Harbinger Of War.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/G7LS7f4StFvtPPG7.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Harbinger Of War.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -7822,10 +7826,10 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Harbinger Of War",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/G7LS7f4StFvtPPG7.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/G7LS7f4StFvtPPG7.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Harbinger Of War.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Harbinger Of War.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/G7LS7f4StFvtPPG7.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Harbinger Of War.png"
         ],
         "variantPattern": null
       }
@@ -8032,11 +8036,11 @@
       }
     },
     "DJTVWE5AuWKsAdLZ": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/DJTVWE5AuWKsAdLZ.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Owl Witch.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/DJTVWE5AuWKsAdLZ.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Owl Witch.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -8053,10 +8057,10 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Owl Witch",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/DJTVWE5AuWKsAdLZ.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/DJTVWE5AuWKsAdLZ.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Owl Witch.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Owl Witch.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/DJTVWE5AuWKsAdLZ.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Owl Witch.png"
         ],
         "variantPattern": null
       }
@@ -8096,11 +8100,11 @@
       }
     },
     "trcxftEx6fFKDNk0": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/trcxftEx6fFKDNk0.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Ruby Dragon.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/trcxftEx6fFKDNk0.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Ruby Dragon.png",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -8117,20 +8121,21 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Ruby Dragon",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/trcxftEx6fFKDNk0.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/trcxftEx6fFKDNk0.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Ruby Dragon.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Ruby Dragon.png",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/trcxftEx6fFKDNk0.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Ruby Dragon.png"
         ],
-        "variantPattern": null
+        "variantPattern": null,
+        "artRevision": "animation-wyvern-reference-2026-10-01"
       }
     },
     "k70HuYjjFhd2L9Dg": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/k70HuYjjFhd2L9Dg.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Severed Shadow.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/k70HuYjjFhd2L9Dg.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Severed Shadow.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -8147,20 +8152,20 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Severed Shadow",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/k70HuYjjFhd2L9Dg.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/k70HuYjjFhd2L9Dg.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Severed Shadow.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Severed Shadow.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/k70HuYjjFhd2L9Dg.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Severed Shadow.png"
         ],
         "variantPattern": null
       }
     },
     "cARWKseJwjskn23n": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/cARWKseJwjskn23n.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Supreme Demiurge Adonix.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/cARWKseJwjskn23n.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Supreme Demiurge Adonix.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -8177,20 +8182,20 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Supreme Demiurge Adonix",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/cARWKseJwjskn23n.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/cARWKseJwjskn23n.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Supreme Demiurge Adonix.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Supreme Demiurge Adonix.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/cARWKseJwjskn23n.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Supreme Demiurge Adonix.png"
         ],
         "variantPattern": null
       }
     },
     "VSdS3N5Kh6uratv9": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/VSdS3N5Kh6uratv9.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Temporal Enforcer.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/VSdS3N5Kh6uratv9.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Temporal Enforcer.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -8207,10 +8212,10 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Temporal Enforcer",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/VSdS3N5Kh6uratv9.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/VSdS3N5Kh6uratv9.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Temporal Enforcer.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Temporal Enforcer.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/VSdS3N5Kh6uratv9.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Temporal Enforcer.png"
         ],
         "variantPattern": null
       }
@@ -8316,11 +8321,11 @@
       }
     },
     "vXYRAVdCo7812o1g": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/vXYRAVdCo7812o1g.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Water Mother.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/vXYRAVdCo7812o1g.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Water Mother.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -8337,20 +8342,20 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Water Mother",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/vXYRAVdCo7812o1g.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/vXYRAVdCo7812o1g.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Water Mother.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Water Mother.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/vXYRAVdCo7812o1g.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Water Mother.png"
         ],
         "variantPattern": null
       }
     },
     "wZA5KQUjIRhnUFrl": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/wZA5KQUjIRhnUFrl.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Wyrmfiend.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/wZA5KQUjIRhnUFrl.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Wyrmfiend.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -8367,20 +8372,20 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Wyrmfiend",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/wZA5KQUjIRhnUFrl.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/wZA5KQUjIRhnUFrl.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Wyrmfiend.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Wyrmfiend.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/wZA5KQUjIRhnUFrl.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Wyrmfiend.png"
         ],
         "variantPattern": null
       }
     },
     "qEzuNntzQ1fRInTm": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/qEzuNntzQ1fRInTm.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Wyrmlings.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/qEzuNntzQ1fRInTm.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Wyrmlings.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -8397,20 +8402,20 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Wyrmlings",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/qEzuNntzQ1fRInTm.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/qEzuNntzQ1fRInTm.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Wyrmlings.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Wyrmlings.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/qEzuNntzQ1fRInTm.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Wyrmlings.png"
         ],
         "variantPattern": null
       }
     },
     "K0VZLi95DzTfdfso": {
-      "actor": "modules/daggerheart-art-complete/adversaries/generated/K0VZLi95DzTfdfso.png",
+      "actor": "modules/daggerheart-art-complete/adversaries/generated/Xero The Castle Killer.png",
       "token": {
         "randomImg": false,
         "texture": {
-          "src": "modules/daggerheart-art-complete/adversaries/circle/K0VZLi95DzTfdfso.webp",
+          "src": "modules/daggerheart-art-complete/adversaries/circle/Xero The Castle Killer.webp",
           "fit": "contain",
           "scaleX": 1,
           "scaleY": 1
@@ -8427,10 +8432,10 @@
         "moduleId": "daggerheart-art-complete",
         "name": "Xero The Castle Killer",
         "origin": "generated",
-        "portrait": "modules/daggerheart-art-complete/adversaries/generated/K0VZLi95DzTfdfso.png",
-        "circle": "modules/daggerheart-art-complete/adversaries/circle/K0VZLi95DzTfdfso.webp",
+        "portrait": "modules/daggerheart-art-complete/adversaries/generated/Xero The Castle Killer.png",
+        "circle": "modules/daggerheart-art-complete/adversaries/circle/Xero The Castle Killer.webp",
         "variants": [
-          "modules/daggerheart-art-complete/adversaries/generated/K0VZLi95DzTfdfso.png"
+          "modules/daggerheart-art-complete/adversaries/generated/Xero The Castle Killer.png"
         ],
         "variantPattern": null
       }

@@ -1,4 +1,4 @@
-# Daggerheart — Artes Completas
+# Daggerheart — Art for Game
 
 Módulo independente de retratos e tokens para os **264 adversários** presentes no Daggerheart **2.10.7**, destinado ao **Foundry VTT 14**.
 
@@ -12,20 +12,24 @@ Abra `galeria.html` no navegador para consultar as artes por nome, filtrar as no
 
 ## Instalação
 
+A revisão local 1.2.0 atualiza Wyvern, Drake, Young Fire Dragon, Ruby Dragon e Dragon Mother Mitera no estilo de animação definido pela wyvern aprovada. Ela também usa nomes legíveis nos 135 retratos novos e nos seus tokens. Os arquivos com nomes antigos são mantidos por compatibilidade com mundos existentes. O identificador interno continua `daggerheart-art-complete`.
+
+Esta revisão precisa ser instalada pelo ZIP local enquanto não for publicada uma nova release. Com o Foundry fechado, extraia a pasta `daggerheart-art-complete` do ZIP em `Data/modules`, substituindo os arquivos da versão anterior. Reabra o mundo e execute a macro abaixo para atualizar tokens circulares existentes e os caminhos antigos. As instruções de manifesto a seguir se referem às releases publicadas.
+
 1. No Foundry, vá em **Configuração → Módulos de Complemento → Instalar Módulo**.
 2. No campo **URL do Manifesto**, cole:
    ```
    https://github.com/giovannialopes/daggerheart-art-for-game/releases/latest/download/module.json
    ```
 3. Clique em **Instalar**, abra seu mundo Daggerheart e entre em **Gerenciar Módulos**.
-4. Desative **Art for Daggerheart** e ative **Daggerheart - Artes Completas**.
+4. Desative **Art for Daggerheart** e ative **Daggerheart - Art for Game**.
 5. Recarregue o mundo e abra o compêndio **Daggerheart SRD → Adversaries**.
 
 O módulo é autossuficiente: a pasta do Art for Daggerheart original não é necessária para carregar suas imagens. Atualizações aparecem automaticamente em **Módulos de Complemento**.
 
 ## Uso
 
-Em **Configurações do Módulo → Daggerheart - Artes Completas**, escolha:
+Em **Configurações do Módulo → Daggerheart - Art for Game**, escolha:
 
 - **Circular** (padrão): recorte redondo de cada adversário, dentro do anel dinâmico do Foundry.
 - **Variantes de corpo inteiro**: alterna as variantes antigas; nos adversários novos, usa a ilustração individual. Sem anel.

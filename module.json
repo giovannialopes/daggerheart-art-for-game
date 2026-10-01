@@ -1,14 +1,21 @@
 {
   "id": "daggerheart-art-complete",
-  "title": "Daggerheart - Artes Completas",
+  "title": "Daggerheart - Art for Game",
   "description": "Retratos e tokens para os adversários do sistema Daggerheart, com as artes do Art for Daggerheart e novas ilustrações. Oferece tokens circulares, variantes e retratos, preservando o tamanho e as regras dos adversários.",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "compatibility": {
     "minimum": "14",
     "verified": "14"
   },
-  "authors": [{ "name": "Giovanni Alopes", "url": "https://github.com/giovannialopes" }],
-  "esmodules": ["scripts/main.js"],
+  "authors": [
+    {
+      "name": "Giovanni Alopes",
+      "url": "https://github.com/giovannialopes"
+    }
+  ],
+  "esmodules": [
+    "scripts/main.js"
+  ],
   "flags": {
     "compendiumArtMappings": {
       "daggerheart": {
@@ -18,16 +25,22 @@
     }
   },
   "relationships": {
-    "systems": [{
-      "id": "daggerheart",
-      "type": "system",
-      "compatibility": { "minimum": "2.10.7" }
-    }],
-    "conflicts": [{
-      "id": "art-for-daggerheart",
-      "type": "module",
-      "reason": "Os dois módulos configuram as mesmas artes e tokens. Desative Art for Daggerheart para usar Artes Completas."
-    }]
+    "systems": [
+      {
+        "id": "daggerheart",
+        "type": "system",
+        "compatibility": {
+          "minimum": "2.10.7"
+        }
+      }
+    ],
+    "conflicts": [
+      {
+        "id": "art-for-daggerheart",
+        "type": "module",
+        "reason": "Os dois módulos configuram as mesmas artes e tokens. Desative Art for Daggerheart para usar Artes Completas."
+      }
+    ]
   },
   "packs": [],
   "url": "https://github.com/giovannialopes/daggerheart-art-for-game",

@@ -52,7 +52,7 @@ Hooks.on("applyCompendiumArt", (documentClass, source, _pack, art) => {
 Hooks.once("ready", () => {
   if (game.user.isGM && game.modules.get("art-for-daggerheart")?.active) {
     ui.notifications.warn(
-      "Daggerheart - Artes Completas: desative Art for Daggerheart em Gerenciar Módulos e recarregue o mundo. Ele também altera as imagens e o tamanho dos tokens.",
+      "Daggerheart - Art for Game: desative Art for Daggerheart em Gerenciar Módulos e recarregue o mundo. Ele também altera as imagens e o tamanho dos tokens.",
       { permanent: true }
     );
   }

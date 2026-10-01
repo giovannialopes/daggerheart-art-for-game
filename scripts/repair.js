@@ -1,7 +1,7 @@
 import { MAPPING_PATH, isOurAsset, selectTokenArt, tokenArtChanges } from "./art.js";
 
 /** Index every image of the mapping by path, so a token can be traced back to its adversary. */
-export function indexMapping(mapping) {
+export function indexMapping(mapping, aliases = {}) {
   const index = new Map();
   for (const entries of Object.values(mapping ?? {})) {
     for (const art of Object.values(entries)) {
@@ -10,6 +10,9 @@ export function indexMapping(mapping) {
         if (isOurAsset(src)) index.set(src, art);
       }
     }
+  }
+  for (const [oldPath, newPath] of Object.entries(aliases)) {
+    if (isOurAsset(oldPath) && index.has(newPath)) index.set(oldPath, index.get(newPath));
   }
   return index;
 }
@@ -34,12 +37,17 @@ export function repairUpdate(token, index, options, { placed = false, prefix = "
 /** Reapply the module's token art to world actors and to tokens in every scene. */
 export async function fixTokenFraming(options) {
   if (!game.user.isGM) throw new Error("Execute a correção como GM.");
-  const index = indexMapping(await foundry.utils.fetchJsonWithTimeout(MAPPING_PATH));
+  const [mapping, aliases] = await Promise.all([
+    foundry.utils.fetchJsonWithTimeout(MAPPING_PATH),
+    foundry.utils.fetchJsonWithTimeout(MAPPING_PATH.replace('adversaries.json', 'legacy-paths.json'))
+  ]);
+  const index = indexMapping(mapping, aliases);
   let actors = 0, tokens = 0;
   for (const actor of game.actors) {
     const update = repairUpdate(actor.prototypeToken, index, options, { prefix: "prototypeToken." });
-    if (!update) continue;
-    await actor.update(update);
+    const portrait = index.get(actor.img)?.dac?.portrait;
+    if (!update && !portrait) continue;
+    await actor.update({ ...(update ?? {}), ...(portrait ? { img: portrait } : {}) });
     actors++;
   }
   for (const scene of game.scenes) {
@@ -51,6 +59,6 @@ export async function fixTokenFraming(options) {
     if (updates.length) await scene.updateEmbeddedDocuments("Token", updates);
     tokens += updates.length;
   }
-  ui.notifications.info(`Artes Completas: ${actors} atores e ${tokens} tokens atualizados.`);
+  ui.notifications.info(`Art for Game: ${actors} atores e ${tokens} tokens atualizados.`);
   return { actors, tokens };
 }

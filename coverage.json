@@ -1,0 +1,2652 @@
+{
+  "system": "daggerheart",
+  "systemVersion": "2.10.7",
+  "expected": 264,
+  "mapped": 264,
+  "reused": 129,
+  "generated": 135,
+  "complete": true,
+  "missing": [],
+  "adversaries": [
+    {
+      "id": "89yAh30vaNQOALlz",
+      "name": "Acid Burrower",
+      "tier": 1,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Acid Burrower.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Acid Burrower.webp",
+      "variants": 8
+    },
+    {
+      "id": "C9vt09lsAa6AeXeg",
+      "name": "Ahuizotl",
+      "tier": 1,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/C9vt09lsAa6AeXeg.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "JRhrrEg5UroURiAD",
+      "name": "Archer Guard",
+      "tier": 1,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Archer Guard.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Archer Guard.webp",
+      "variants": 4
+    },
+    {
+      "id": "bXuRtHS6diPWAJKA",
+      "name": "Atototl",
+      "tier": 1,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/bXuRtHS6diPWAJKA.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "71qKDLKO3CsrNkdy",
+      "name": "Bear",
+      "tier": 1,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Bear.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Bear.webp",
+      "variants": 3
+    },
+    {
+      "id": "B4LZcGuBAHzyVdzy",
+      "name": "Bladed Guard",
+      "tier": 1,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Bladed Guard.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Bladed Guard.webp",
+      "variants": 7
+    },
+    {
+      "id": "2UeZ0tEe7AzgSJNd",
+      "name": "Brawny Zombie",
+      "tier": 1,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Brawny Zombie.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Brawny Zombie.webp",
+      "variants": 4
+    },
+    {
+      "id": "IwliIAsSth5pKGU4",
+      "name": "Bugboar",
+      "tier": 1,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/IwliIAsSth5pKGU4.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "8Zkqk1jU09nKL2fy",
+      "name": "Cave Ogre",
+      "tier": 1,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Cave Ogre.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Cave Ogre.webp",
+      "variants": 4
+    },
+    {
+      "id": "JQN5j1AB0VwV0AWN",
+      "name": "Common Ruffian",
+      "tier": 1,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/JQN5j1AB0VwV0AWN.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "uOP5oT9QzXPlnf3p",
+      "name": "Construct",
+      "tier": 1,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Construct.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Construct.webp",
+      "variants": 6
+    },
+    {
+      "id": "CBBuEXAlLKFMJdjg",
+      "name": "Courtier",
+      "tier": 1,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Courtier.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Courtier.webp",
+      "variants": 8
+    },
+    {
+      "id": "Z16fYvCNRlD4XZij",
+      "name": "Darkweave Crawler",
+      "tier": 1,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/Z16fYvCNRlD4XZij.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "PcBt4ggimibM7DCp",
+      "name": "Darkweave Queen",
+      "tier": 1,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/PcBt4ggimibM7DCp.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "YdGTyYI6bBXh5lgV",
+      "name": "Darkweave Spinner",
+      "tier": 1,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/YdGTyYI6bBXh5lgV.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "ADiUlCE0woMcvnzv",
+      "name": "Darkweave Swarmlings",
+      "tier": 1,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/ADiUlCE0woMcvnzv.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "9x2xY9zwc3xzbXo5",
+      "name": "Deeproot Defender",
+      "tier": 1,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Deeproot Defender.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Deeproot Defender.webp",
+      "variants": 4
+    },
+    {
+      "id": "wNzeuQLfLUMvgHlQ",
+      "name": "Dire Wolf",
+      "tier": 1,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Dire Wolf.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Dire Wolf.webp",
+      "variants": 4
+    },
+    {
+      "id": "VhPEpRkCZKOwK3me",
+      "name": "Elk",
+      "tier": 1,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/VhPEpRkCZKOwK3me.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "53xmu2ZYzjIOy4Td",
+      "name": "Falcon",
+      "tier": 1,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/53xmu2ZYzjIOy4Td.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "IIWV4ysJPFPnTP7W",
+      "name": "Giant Mosquitoes",
+      "tier": 1,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Giant Mosquitoes.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Giant Mosquitoes.webp",
+      "variants": 3
+    },
+    {
+      "id": "4PfLnaCrOcMdb4dK",
+      "name": "Giant Rat",
+      "tier": 1,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Giant Rat.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Giant Rat.webp",
+      "variants": 4
+    },
+    {
+      "id": "fmfntuJ8mHRCAktP",
+      "name": "Giant Scorpion",
+      "tier": 1,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Giant Scorpion.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Giant Scorpion.webp",
+      "variants": 4
+    },
+    {
+      "id": "8KWVLWXFhlY2kYx0",
+      "name": "Glass Snake",
+      "tier": 1,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Glass Snake.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Glass Snake.webp",
+      "variants": 8
+    },
+    {
+      "id": "SHXedd9zZPVfUgUa",
+      "name": "Green Ooze",
+      "tier": 1,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Green Ooze.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Green Ooze.webp",
+      "variants": 4
+    },
+    {
+      "id": "lzu6TNdRtCLoo3fN",
+      "name": "Grimmling Warband",
+      "tier": 1,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/lzu6TNdRtCLoo3fN.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "c6WgrpzgbgSpEiyA",
+      "name": "Harpy",
+      "tier": 1,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/c6WgrpzgbgSpEiyA.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "uRtghKE9mHlII4rs",
+      "name": "Harrier",
+      "tier": 1,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Harrier.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Harrier.webp",
+      "variants": 5
+    },
+    {
+      "id": "mK3A5FTx6k8iPU3F",
+      "name": "Head Guard",
+      "tier": 1,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Head Guard.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Head Guard.webp",
+      "variants": 6
+    },
+    {
+      "id": "5Lh1T0zaT8Pkr2U2",
+      "name": "Jagged Knife Bandit",
+      "tier": 1,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Jagged Knife Bandit.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Jagged Knife Bandit.webp",
+      "variants": 4
+    },
+    {
+      "id": "MbBPIOxaxXYNApXz",
+      "name": "Jagged Knife Hexer",
+      "tier": 1,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Jagged Knife Hexer.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Jagged Knife Hexer.webp",
+      "variants": 2
+    },
+    {
+      "id": "CBKixLH3yhivZZuL",
+      "name": "Jagged Knife Kneebreaker",
+      "tier": 1,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Jagged Knife Kneebreaker.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Jagged Knife Kneebreaker.webp",
+      "variants": 7
+    },
+    {
+      "id": "C0OMQqV7pN6t7ouR",
+      "name": "Jagged Knife Lackey",
+      "tier": 1,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Jagged Knife Lackey.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Jagged Knife Lackey.webp",
+      "variants": 7
+    },
+    {
+      "id": "aTljstqteGoLpCBq",
+      "name": "Jagged Knife Lieutenant",
+      "tier": 1,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Jagged Knife Lieutenant.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Jagged Knife Lieutenant.webp",
+      "variants": 3
+    },
+    {
+      "id": "XF4tYTq9nPJAy2ox",
+      "name": "Jagged Knife Shadow",
+      "tier": 1,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Jagged Knife Shadow.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Jagged Knife Shadow.webp",
+      "variants": 6
+    },
+    {
+      "id": "1zuyof1XuIfi3aMG",
+      "name": "Jagged Knife Sniper",
+      "tier": 1,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Jagged Knife Sniper.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Jagged Knife Sniper.webp",
+      "variants": 2
+    },
+    {
+      "id": "Eii92UHVhFXh59kL",
+      "name": "Kelpie",
+      "tier": 1,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/Eii92UHVhFXh59kL.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "DtpTGuzeLlcZ43ID",
+      "name": "Masque Muerte",
+      "tier": 1,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/DtpTGuzeLlcZ43ID.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "MmK6Sn51uikou7wI",
+      "name": "Mechanorb",
+      "tier": 1,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/MmK6Sn51uikou7wI.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "Al3w2CgjfdT3p9ma",
+      "name": "Merchant",
+      "tier": 1,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Merchant.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Merchant.webp",
+      "variants": 8
+    },
+    {
+      "id": "sRn4bqerfARvhgSV",
+      "name": "Minor Chaos Elemental",
+      "tier": 1,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Minor Chaos Elemental.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Minor Chaos Elemental.webp",
+      "variants": 2
+    },
+    {
+      "id": "3tqCjDwJAQ7JKqMb",
+      "name": "Minor Demon",
+      "tier": 1,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Minor Demon.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Minor Demon.webp",
+      "variants": 4
+    },
+    {
+      "id": "DscWkNVoHak6P4hh",
+      "name": "Minor Fire Elemental",
+      "tier": 1,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Minor Fire Elemental.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Minor Fire Elemental.webp",
+      "variants": 4
+    },
+    {
+      "id": "G62k4oSkhkoXEs2D",
+      "name": "Minor Treant",
+      "tier": 1,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Minor Treant.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Minor Treant.webp",
+      "variants": 8
+    },
+    {
+      "id": "iwhTb5AUvNFV3dU5",
+      "name": "Mountain Troll",
+      "tier": 1,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/iwhTb5AUvNFV3dU5.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "ptWgFVRErxkPbYcs",
+      "name": "Octopus",
+      "tier": 1,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/ptWgFVRErxkPbYcs.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "fD6W32riWZbtakYc",
+      "name": "Panther",
+      "tier": 1,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/fD6W32riWZbtakYc.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "EQTOAOUrkIvS2z88",
+      "name": "Patchwork Zombie Hulk",
+      "tier": 1,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Patchwork Zombie Hulk.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Patchwork Zombie Hulk.webp",
+      "variants": 9
+    },
+    {
+      "id": "wycLpvebWdUqRhpP",
+      "name": "Petty Noble",
+      "tier": 1,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Petty Noble.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Petty Noble.webp",
+      "variants": 8
+    },
+    {
+      "id": "T2kyHFC68VKtIXir",
+      "name": "Phantom",
+      "tier": 1,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/T2kyHFC68VKtIXir.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "OROJbjsqagVh7ECV",
+      "name": "Pirate Captain",
+      "tier": 1,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Pirate Captain.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Pirate Captain.webp",
+      "variants": 7
+    },
+    {
+      "id": "5YgEajn0wa4i85kC",
+      "name": "Pirate Raiders",
+      "tier": 1,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Pirate Raiders.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Pirate Raiders.webp",
+      "variants": 4
+    },
+    {
+      "id": "mhcVkVFrzIJ18FDm",
+      "name": "Pirate Tough",
+      "tier": 1,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Pirate Tough.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Pirate Tough.webp",
+      "variants": 8
+    },
+    {
+      "id": "ytj3VDog4hrC4TkO",
+      "name": "Poltergeist",
+      "tier": 1,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/ytj3VDog4hrC4TkO.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "lKmBNV3Sgpq9sTtp",
+      "name": "Rabble Mawb",
+      "tier": 1,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/lKmBNV3Sgpq9sTtp.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "9rVlbJVrDNn1x7PS",
+      "name": "Red Ooze",
+      "tier": 1,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Red Ooze.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Red Ooze.webp",
+      "variants": 8
+    },
+    {
+      "id": "NWhnMXGWzAVUyelj",
+      "name": "Redcap Biters",
+      "tier": 1,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/NWhnMXGWzAVUyelj.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "eTmojyT07ekYRAIV",
+      "name": "Redcap Breaker",
+      "tier": 1,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/eTmojyT07ekYRAIV.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "w5ZBoxm8mq9wQz6l",
+      "name": "Redcap Butcher",
+      "tier": 1,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/w5ZBoxm8mq9wQz6l.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "YDgorr8UO4uxptAC",
+      "name": "Redcap Candlemaker",
+      "tier": 1,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/YDgorr8UO4uxptAC.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "lbXcMWCYhsCVWYNO",
+      "name": "Redcap Skinner",
+      "tier": 1,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/lbXcMWCYhsCVWYNO.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "gP3fWTLzSFnpA8EJ",
+      "name": "Rotted Zombie",
+      "tier": 1,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Rotted Zombie.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Rotted Zombie.webp",
+      "variants": 6
+    },
+    {
+      "id": "6Js480Q5SOGRGySm",
+      "name": "Rugaru",
+      "tier": 1,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/6Js480Q5SOGRGySm.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "htdthg1pCYrovP0T",
+      "name": "Sawtoothed Gillbeast",
+      "tier": 1,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/htdthg1pCYrovP0T.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "bgreCaQ6ap2DVpCr",
+      "name": "Sellsword",
+      "tier": 1,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Sellsword.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Sellsword.webp",
+      "variants": 5
+    },
+    {
+      "id": "2nXz4ilAY4xuhKLm",
+      "name": "Shambling Zombie",
+      "tier": 1,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Shambling Zombie.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Shambling Zombie.webp",
+      "variants": 15
+    },
+    {
+      "id": "7X5q7a6ueeHs5oA9",
+      "name": "Skeleton Archer",
+      "tier": 1,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Skeleton Archer.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Skeleton Archer.webp",
+      "variants": 4
+    },
+    {
+      "id": "6l1a3Fazq8BoKIcc",
+      "name": "Skeleton Dredge",
+      "tier": 1,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Skeleton Dredge.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Skeleton Dredge.webp",
+      "variants": 3
+    },
+    {
+      "id": "Q9LaVTyXF9NF12C7",
+      "name": "Skeleton Knight",
+      "tier": 1,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Skeleton Knight.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Skeleton Knight.webp",
+      "variants": 4
+    },
+    {
+      "id": "10YIQl0lvCJXZLfX",
+      "name": "Skeleton Warrior",
+      "tier": 1,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Skeleton Warrior.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Skeleton Warrior.webp",
+      "variants": 6
+    },
+    {
+      "id": "QGtJtlNo0ACZUjE8",
+      "name": "Soul-shattered Mage",
+      "tier": 1,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/QGtJtlNo0ACZUjE8.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "ldbWEL7uZs84vyrR",
+      "name": "Spellblade",
+      "tier": 1,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Spellblade.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Spellblade.webp",
+      "variants": 11
+    },
+    {
+      "id": "jTFawThYqDS5sOnH",
+      "name": "Spellbound Armor",
+      "tier": 1,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/jTFawThYqDS5sOnH.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "qNgs3AbLyJrY19nt",
+      "name": "Swarm of Rats",
+      "tier": 1,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Swarm of Rats.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Swarm of Rats.webp",
+      "variants": 2
+    },
+    {
+      "id": "VtFBt9XBE0WrGGxP",
+      "name": "Sylvan Soldier",
+      "tier": 1,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Sylvan Soldier.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Sylvan Soldier.webp",
+      "variants": 3
+    },
+    {
+      "id": "XcAGOSmtCFLT1unN",
+      "name": "Tangle Bramble",
+      "tier": 1,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Tangle Bramble.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Tangle Bramble.webp",
+      "variants": 4
+    },
+    {
+      "id": "PKSXFuaIHUCoH63A",
+      "name": "Tangle Bramble Swarm",
+      "tier": 1,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Tangle Bramble Swarm.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Tangle Bramble Swarm.webp",
+      "variants": 4
+    },
+    {
+      "id": "aLkLFuVoKz2NLoBK",
+      "name": "Tiny Green Ooze",
+      "tier": 1,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Tiny Green Ooze.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Tiny Green Ooze.webp",
+      "variants": 3
+    },
+    {
+      "id": "1fkLQXVtmILqfJ44",
+      "name": "Tiny Red Ooze",
+      "tier": 1,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Tiny Red Ooze.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Tiny Red Ooze.webp",
+      "variants": 4
+    },
+    {
+      "id": "u5DJUhMewgOwfc3U",
+      "name": "Viper",
+      "tier": 1,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/u5DJUhMewgOwfc3U.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "QPTR2clyJ30idX3c",
+      "name": "Waxwork Creation",
+      "tier": 1,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/QPTR2clyJ30idX3c.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "ZNbQ2jg35LG4t9eH",
+      "name": "Weaponmaster",
+      "tier": 1,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Weaponmaster.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Weaponmaster.webp",
+      "variants": 4
+    },
+    {
+      "id": "XuGDFgTjn1vFQhyA",
+      "name": "Will-o'-the-wisps",
+      "tier": 1,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/XuGDFgTjn1vFQhyA.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "8yUj2Mzvnifhxegm",
+      "name": "Young Dryad",
+      "tier": 1,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Young Dryad.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Young Dryad.webp",
+      "variants": 5
+    },
+    {
+      "id": "RIrQcvhlSmXTqFxr",
+      "name": "Yufo",
+      "tier": 1,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/RIrQcvhlSmXTqFxr.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "Nf0v43rtflV56V2T",
+      "name": "Zombie Pack",
+      "tier": 1,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Zombie Pack.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Zombie Pack.webp",
+      "variants": 9
+    },
+    {
+      "id": "vNIbYQ4YSzNf0WPE",
+      "name": "Apprentice Assassin",
+      "tier": 2,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Apprentice Assassin.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Apprentice Assassin.webp",
+      "variants": 3
+    },
+    {
+      "id": "0ts6CGd93lLqGZI5",
+      "name": "Archer Squadron",
+      "tier": 2,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Archer Squadron.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Archer Squadron.webp",
+      "variants": 5
+    },
+    {
+      "id": "h5RuhzGL17dW5FBT",
+      "name": "Assassin Poisoner",
+      "tier": 2,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Assassin Poisoner.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Assassin Poisoner.webp",
+      "variants": 4
+    },
+    {
+      "id": "4bUnTk3t4VuZZmc7",
+      "name": "Banshee",
+      "tier": 2,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/4bUnTk3t4VuZZmc7.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "SkSS7dNTebMaancS",
+      "name": "Basilisk",
+      "tier": 2,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/SkSS7dNTebMaancS.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "dgH3fW9FTYLaIDvS",
+      "name": "Battle Box",
+      "tier": 2,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Battle Box.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Battle Box.webp",
+      "variants": 4
+    },
+    {
+      "id": "12TRnUh7RzLIn30r",
+      "name": "Berserker Alpha",
+      "tier": 2,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/12TRnUh7RzLIn30r.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "CaFmEX2ccQfgIRja",
+      "name": "Berserker Initiate",
+      "tier": 2,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/CaFmEX2ccQfgIRja.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "tGHjaLIGEUzFygN7",
+      "name": "Centaur Warden",
+      "tier": 2,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/tGHjaLIGEUzFygN7.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "jDmHqGvzg5wjgmxE",
+      "name": "Chaos Skull",
+      "tier": 2,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Chaos Skull.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Chaos Skull.webp",
+      "variants": 5
+    },
+    {
+      "id": "pOtg2aQs8iI3GzMV",
+      "name": "Chicken-foot Hut",
+      "tier": 2,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/pOtg2aQs8iI3GzMV.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "99TqczuQipBmaB8i",
+      "name": "Conscript",
+      "tier": 2,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Conscript.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Conscript.webp",
+      "variants": 4
+    },
+    {
+      "id": "ZxWaWPdzFIUPNC62",
+      "name": "Courtesan",
+      "tier": 2,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Courtesan.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Courtesan.webp",
+      "variants": 3
+    },
+    {
+      "id": "0NxCSugvKQ4W8OYZ",
+      "name": "Cult Adept",
+      "tier": 2,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Cult Adept.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Cult Adept.webp",
+      "variants": 4
+    },
+    {
+      "id": "tyBOpLfigAhI9bU3",
+      "name": "Cult Fang",
+      "tier": 2,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Cult Fang.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Cult Fang.webp",
+      "variants": 3
+    },
+    {
+      "id": "zx99sOGTXicP4SSD",
+      "name": "Cult Initiate",
+      "tier": 2,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Cult Initiate.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Cult Initiate.webp",
+      "variants": 6
+    },
+    {
+      "id": "NoRZ1PqB8N5wcIw0",
+      "name": "Demonic Hound Pack",
+      "tier": 2,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Demonic Hound Pack.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Demonic Hound Pack.webp",
+      "variants": 4
+    },
+    {
+      "id": "BTapjzeIvySheRqF",
+      "name": "Dire Pangolati",
+      "tier": 2,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/BTapjzeIvySheRqF.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "cQ3IQkxfRhmLMySF",
+      "name": "Doppelhound",
+      "tier": 2,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/cQ3IQkxfRhmLMySF.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "qmiZk8Q9DGibINem",
+      "name": "Dragon Knight",
+      "tier": 2,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/qmiZk8Q9DGibINem.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "TLzY1nDw0Bu9Ud40",
+      "name": "Electric Eels",
+      "tier": 2,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Electric Eels.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Electric Eels.webp",
+      "variants": 4
+    },
+    {
+      "id": "y0bPXxZES9huK9f5",
+      "name": "Elephant",
+      "tier": 2,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/y0bPXxZES9huK9f5.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "bfhVWMBUh61b9J6n",
+      "name": "Elite Soldier",
+      "tier": 2,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Elite Soldier.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Elite Soldier.webp",
+      "variants": 11
+    },
+    {
+      "id": "0QPn79SMU6C0b1qi",
+      "name": "Entombed Cat Beast",
+      "tier": 2,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/0QPn79SMU6C0b1qi.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "etsuHXoRHqWBRI8N",
+      "name": "Entombed Elite Guard",
+      "tier": 2,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/etsuHXoRHqWBRI8N.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "L6QLw1rYK4qtdf1F",
+      "name": "Entombed Empress",
+      "tier": 2,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/L6QLw1rYK4qtdf1F.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "BUjYC5kDjBoqNrC3",
+      "name": "Entombed Necropriest",
+      "tier": 2,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/BUjYC5kDjBoqNrC3.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "BSLBG7hQ9K1HGlU6",
+      "name": "Entombed Skin Beetles",
+      "tier": 2,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/BSLBG7hQ9K1HGlU6.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "cugsaVxMi9UCUNku",
+      "name": "Entombed Stonemason",
+      "tier": 2,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/cugsaVxMi9UCUNku.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "ChwwVqowFw8hJQwT",
+      "name": "Failed Experiment",
+      "tier": 2,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Failed Experiment.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Failed Experiment.webp",
+      "variants": 7
+    },
+    {
+      "id": "vWHynB75iGfOhTjn",
+      "name": "Flock Of Feather Fiends",
+      "tier": 2,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/vWHynB75iGfOhTjn.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "diyNjiVzyZEwYg1V",
+      "name": "Fowlbear",
+      "tier": 2,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/diyNjiVzyZEwYg1V.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "55oYzFQRmrXCqNxn",
+      "name": "Fungispunj Sporeling",
+      "tier": 2,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/55oYzFQRmrXCqNxn.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "5BKK7pDRjRAgN3Nm",
+      "name": "Fungispunj Sporophore",
+      "tier": 2,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/5BKK7pDRjRAgN3Nm.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "rTdLnKnuI8lu0kfv",
+      "name": "Gargoyle",
+      "tier": 2,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/rTdLnKnuI8lu0kfv.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "8VZIgU12cB3cvlyH",
+      "name": "Giant Beastmaster",
+      "tier": 2,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Giant Beastmaster.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Giant Beastmaster.webp",
+      "variants": 9
+    },
+    {
+      "id": "YnObCleGjPT7yqEc",
+      "name": "Giant Brawler",
+      "tier": 2,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Giant Brawler.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Giant Brawler.webp",
+      "variants": 8
+    },
+    {
+      "id": "OMQ0v6PE8s1mSU0K",
+      "name": "Giant Eagle",
+      "tier": 2,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Giant Eagle.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Giant Eagle.webp",
+      "variants": 3
+    },
+    {
+      "id": "TqL5DLSbGFI8RsLd",
+      "name": "Giant Octopus",
+      "tier": 2,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/TqL5DLSbGFI8RsLd.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "5s8wSvpyC5rxY5aD",
+      "name": "Giant Recruit",
+      "tier": 2,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Giant Recruit.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Giant Recruit.webp",
+      "variants": 5
+    },
+    {
+      "id": "Nx7LCcitOvQvXb8X",
+      "name": "Gobstalker",
+      "tier": 2,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/Nx7LCcitOvQvXb8X.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "8mJYMpbLTb8qIOrr",
+      "name": "Gorgon",
+      "tier": 2,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Gorgon.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Gorgon.webp",
+      "variants": 6
+    },
+    {
+      "id": "AagRRy7uZr9k7tDH",
+      "name": "Guahalan Alebrujo",
+      "tier": 2,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/AagRRy7uZr9k7tDH.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "YFPpMT6zZQwzIJIu",
+      "name": "Guahalan Fang Lord",
+      "tier": 2,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/YFPpMT6zZQwzIJIu.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "cRujJUHzQvzwWZtj",
+      "name": "Guahalan Shifter",
+      "tier": 2,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/cRujJUHzQvzwWZtj.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "PV0FTOWQWLw3PDlY",
+      "name": "Guahalan Spirit Beast",
+      "tier": 2,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/PV0FTOWQWLw3PDlY.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "9K39Wga6Lj5y0g8M",
+      "name": "Guahalan Spirit Singer",
+      "tier": 2,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/9K39Wga6Lj5y0g8M.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "321E0ZexRT4zjpKu",
+      "name": "Hill Titan",
+      "tier": 2,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/321E0ZexRT4zjpKu.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "MydEcpmRKsHt1snu",
+      "name": "Hive Walker",
+      "tier": 2,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/MydEcpmRKsHt1snu.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "qhMbIUVeD7BWuRKJ",
+      "name": "Jack-o'-lantern",
+      "tier": 2,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/qhMbIUVeD7BWuRKJ.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "MYXmTx2FHcIjdfYZ",
+      "name": "Juvenile Flickerfly",
+      "tier": 2,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Juvenile Flickerfly.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Juvenile Flickerfly.webp",
+      "variants": 4
+    },
+    {
+      "id": "7ai2opemrclQe3VF",
+      "name": "Knight of the Realm",
+      "tier": 2,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Knight of the Realm.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Knight of the Realm.webp",
+      "variants": 6
+    },
+    {
+      "id": "A9EuHHWa6UmN7khR",
+      "name": "Landshark",
+      "tier": 2,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/A9EuHHWa6UmN7khR.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "87vG6DpVjMuRMR8Q",
+      "name": "Landshark Behemoth",
+      "tier": 2,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/87vG6DpVjMuRMR8Q.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "niBpVU7yeo5ccskE",
+      "name": "Masked Thief",
+      "tier": 2,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Masked Thief.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Masked Thief.webp",
+      "variants": 8
+    },
+    {
+      "id": "dNta0cUzr96xcFhf",
+      "name": "Master Assassin",
+      "tier": 2,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Master Assassin.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Master Assassin.webp",
+      "variants": 7
+    },
+    {
+      "id": "Vy02IhGhkJLuezu4",
+      "name": "Merchant Baron",
+      "tier": 2,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Merchant Baron.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Merchant Baron.webp",
+      "variants": 7
+    },
+    {
+      "id": "rM9qCIYeWg9I0B4l",
+      "name": "Minotaur Wrecker",
+      "tier": 2,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Minotaur Wrecker.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Minotaur Wrecker.webp",
+      "variants": 8
+    },
+    {
+      "id": "mVV7a7KQAORoPMgZ",
+      "name": "Mortal Hunter",
+      "tier": 2,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Mortal Hunter.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Mortal Hunter.webp",
+      "variants": 9
+    },
+    {
+      "id": "Nj9E7DLb7UakiKz6",
+      "name": "Ravenous Mockery",
+      "tier": 2,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/Nj9E7DLb7UakiKz6.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "EtLJiTsilPPZvLUX",
+      "name": "Royal Advisor",
+      "tier": 2,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Royal Advisor.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Royal Advisor.webp",
+      "variants": 8
+    },
+    {
+      "id": "y6dI50LstfCrlVfY",
+      "name": "Rust Eater",
+      "tier": 2,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/y6dI50LstfCrlVfY.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "lOIaoJscG3he5thc",
+      "name": "Scarecrow",
+      "tier": 2,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/lOIaoJscG3he5thc.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "sLAccjvCWfeedbpI",
+      "name": "Secret-Keeper",
+      "tier": 2,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Secret-Keeper.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Secret-Keeper.webp",
+      "variants": 6
+    },
+    {
+      "id": "YmVAkdNsyuXWTtYp",
+      "name": "Shark",
+      "tier": 2,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Shark.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Shark.webp",
+      "variants": 6
+    },
+    {
+      "id": "BK4jwyXSRx7IOQiO",
+      "name": "Siren",
+      "tier": 2,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Siren.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Siren.webp",
+      "variants": 6
+    },
+    {
+      "id": "5tCkhnBByUIN5UdG",
+      "name": "Spectral Archer",
+      "tier": 2,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Spectral Archer.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Spectral Archer.webp",
+      "variants": 8
+    },
+    {
+      "id": "65cSO3EQEh6ZH6Xk",
+      "name": "Spectral Captain",
+      "tier": 2,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Spectral Captain.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Spectral Captain.webp",
+      "variants": 3
+    },
+    {
+      "id": "UFVGl1osOsJTneLf",
+      "name": "Spectral Guardian",
+      "tier": 2,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Spectral Guardian.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Spectral Guardian.webp",
+      "variants": 7
+    },
+    {
+      "id": "iQL0zE7vRLZSZ2TI",
+      "name": "Sprite",
+      "tier": 2,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/iQL0zE7vRLZSZ2TI.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "8zlynOhnVA59KpKT",
+      "name": "Spy",
+      "tier": 2,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Spy.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Spy.webp",
+      "variants": 6
+    },
+    {
+      "id": "ufQMOWgcGspqyGln",
+      "name": "Stone Titan",
+      "tier": 2,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/ufQMOWgcGspqyGln.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "3aAS2Qm3R6cgaYfE",
+      "name": "Stonewraith",
+      "tier": 2,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Stonewraith.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Stonewraith.webp",
+      "variants": 7
+    },
+    {
+      "id": "nbdEW8HTS25uEiWZ",
+      "name": "Triceratops",
+      "tier": 2,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/nbdEW8HTS25uEiWZ.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "IrWRZcwshGOppa5K",
+      "name": "Tyrannosaurus",
+      "tier": 2,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/IrWRZcwshGOppa5K.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "6kvqeoKIIFEcEHNQ",
+      "name": "Urco",
+      "tier": 2,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/6kvqeoKIIFEcEHNQ.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "Xq00qigdsoB2b3gJ",
+      "name": "Valdenhax",
+      "tier": 2,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/Xq00qigdsoB2b3gJ.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "noDdT0tsN6FXSmC8",
+      "name": "War Wizard",
+      "tier": 2,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/War Wizard.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/War Wizard.webp",
+      "variants": 9
+    },
+    {
+      "id": "G7jiltRjgvVhZewm",
+      "name": "Adult Flickerfly",
+      "tier": 3,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Adult Flickerfly.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Adult Flickerfly.webp",
+      "variants": 3
+    },
+    {
+      "id": "FNNt42hhwvuOc4XO",
+      "name": "Archmage",
+      "tier": 3,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/FNNt42hhwvuOc4XO.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "UxOoHSEzxIjTpZws",
+      "name": "Catrin",
+      "tier": 3,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/UxOoHSEzxIjTpZws.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "RV9j8V7CcuZYEhec",
+      "name": "Chimera",
+      "tier": 3,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/RV9j8V7CcuZYEhec.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "vpzDW0774xXJhNHy",
+      "name": "Crimson Lepus",
+      "tier": 3,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/vpzDW0774xXJhNHy.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "nrcRGYmyMy2vBJXl",
+      "name": "Cryptimoth",
+      "tier": 3,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/nrcRGYmyMy2vBJXl.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "vw7PTv0hdDRCXhus",
+      "name": "Cursed Merfolk",
+      "tier": 3,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/vw7PTv0hdDRCXhus.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "Wy9Dx05ulqeybn4h",
+      "name": "Deep Dweller",
+      "tier": 3,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/Wy9Dx05ulqeybn4h.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "pnyjIGxxvurcWmTv",
+      "name": "Demon of Avarice",
+      "tier": 3,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Demon of Avarice.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Demon of Avarice.webp",
+      "variants": 3
+    },
+    {
+      "id": "kE4dfhqmIQpNd44e",
+      "name": "Demon of Despair",
+      "tier": 3,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Demon of Despair.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Demon of Despair.webp",
+      "variants": 3
+    },
+    {
+      "id": "2VN3BftageoTTIzu",
+      "name": "Demon of Hubris",
+      "tier": 3,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Demon of Hubris.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Demon of Hubris.webp",
+      "variants": 4
+    },
+    {
+      "id": "SxSOkM4bcVOFyjbo",
+      "name": "Demon of Jealousy",
+      "tier": 3,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Demon of Jealousy.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Demon of Jealousy.webp",
+      "variants": 3
+    },
+    {
+      "id": "5lphJAgzoqZI3VoG",
+      "name": "Demon of Wrath",
+      "tier": 3,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Demon of Wrath.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Demon of Wrath.webp",
+      "variants": 4
+    },
+    {
+      "id": "tBWHW00epmMnkawe",
+      "name": "Dire Bat",
+      "tier": 3,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Dire Bat.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Dire Bat.webp",
+      "variants": 3
+    },
+    {
+      "id": "VQjfu6GFyNlFSMgH",
+      "name": "Drake",
+      "tier": 3,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/VQjfu6GFyNlFSMgH.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "wR7cFKrHvRzbzhBT",
+      "name": "Dryad",
+      "tier": 3,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Dryad.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Dryad.webp",
+      "variants": 4
+    },
+    {
+      "id": "ldbXoTbf1lnZzXjt",
+      "name": "Dullahan",
+      "tier": 3,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/ldbXoTbf1lnZzXjt.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "P7h54ZePFPHpYwvB",
+      "name": "Elemental Spark",
+      "tier": 3,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Elemental Spark.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Elemental Spark.webp",
+      "variants": 4
+    },
+    {
+      "id": "q3BOz4DSAIAvvJGK",
+      "name": "Fellmounted Shadow King",
+      "tier": 3,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/q3BOz4DSAIAvvJGK.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "borKEokmyZ8gOkK3",
+      "name": "Fire Titan",
+      "tier": 3,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/borKEokmyZ8gOkK3.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "qdmY1ZJcnAaVvJQD",
+      "name": "Frost Titan",
+      "tier": 3,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/qdmY1ZJcnAaVvJQD.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "mXXYdmgqAKKZD4tB",
+      "name": "Gargantuan Sea Turtle",
+      "tier": 3,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/mXXYdmgqAKKZD4tB.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "dsfB3YhoL5SudvS2",
+      "name": "Greater Earth Elemental",
+      "tier": 3,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Greater Earth Elemental.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Greater Earth Elemental.webp",
+      "variants": 4
+    },
+    {
+      "id": "xIICT6tEdnA7dKDV",
+      "name": "Greater Water Elemental",
+      "tier": 3,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Greater Water Elemental.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Greater Water Elemental.webp",
+      "variants": 5
+    },
+    {
+      "id": "i2UNbRvgyoSs07M6",
+      "name": "Head Vampire",
+      "tier": 3,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Head Vampire.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Head Vampire.webp",
+      "variants": 8
+    },
+    {
+      "id": "6hbqmxDXFOzZJDk4",
+      "name": "Huge Green Ooze",
+      "tier": 3,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Huge Green Ooze.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Huge Green Ooze.webp",
+      "variants": 4
+    },
+    {
+      "id": "MI126iMOOobQ1Obn",
+      "name": "Hydra",
+      "tier": 3,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Hydra.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Hydra.webp",
+      "variants": 5
+    },
+    {
+      "id": "pMZxHeu79iXFV9FR",
+      "name": "Lamia",
+      "tier": 3,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/pMZxHeu79iXFV9FR.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "Z94eIkkO3msHVU0R",
+      "name": "Lamplight Beguiler",
+      "tier": 3,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/Z94eIkkO3msHVU0R.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "OoxQXYk6UDb5MNhx",
+      "name": "Manticore",
+      "tier": 3,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/OoxQXYk6UDb5MNhx.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "yx0vK2yfNVZKWUUi",
+      "name": "Monarch",
+      "tier": 3,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Monarch.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Monarch.webp",
+      "variants": 12
+    },
+    {
+      "id": "woVws0rcFaedtW3g",
+      "name": "Night Children",
+      "tier": 3,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/woVws0rcFaedtW3g.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "XK78QUfY8c8Go8Uv",
+      "name": "Oak Treant",
+      "tier": 3,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Oak Treant.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Oak Treant.webp",
+      "variants": 4
+    },
+    {
+      "id": "RKdp5SOjwx1CHtaZ",
+      "name": "Pain Priest",
+      "tier": 3,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/RKdp5SOjwx1CHtaZ.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "OmhCH4TmAEiQx9he",
+      "name": "Phoenix",
+      "tier": 3,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/OmhCH4TmAEiQx9he.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "KUevwJakVF7byrgT",
+      "name": "Plesiosaurus",
+      "tier": 3,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/KUevwJakVF7byrgT.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "c0ivcxYHIW2t1cXV",
+      "name": "Roc",
+      "tier": 3,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/c0ivcxYHIW2t1cXV.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "GGljGjIJzx1WKLfD",
+      "name": "Sandwyrm",
+      "tier": 3,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/GGljGjIJzx1WKLfD.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "C652lQ56oZWBhdNz",
+      "name": "Shapeshifting Fiend",
+      "tier": 3,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/C652lQ56oZWBhdNz.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "fa50qKab3hPt9gkV",
+      "name": "Shapeshifting Fiend Revealed",
+      "tier": 3,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/fa50qKab3hPt9gkV.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "KGVwnLq85ywP9xvB",
+      "name": "Stag Knight",
+      "tier": 3,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Stag Knight.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Stag Knight.webp",
+      "variants": 4
+    },
+    {
+      "id": "tLHNONmalytgnngv",
+      "name": "Storm Titan",
+      "tier": 3,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/tLHNONmalytgnngv.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "o63nS0k3wHu6EgKP",
+      "name": "Treant Sapling",
+      "tier": 3,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Treant Sapling.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Treant Sapling.webp",
+      "variants": 4
+    },
+    {
+      "id": "GwEwP2FnWOT6ONZw",
+      "name": "Unicorn",
+      "tier": 3,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/GwEwP2FnWOT6ONZw.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "WWyUp6Mxl1S3KYUG",
+      "name": "Vampire",
+      "tier": 3,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Vampire.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Vampire.webp",
+      "variants": 8
+    },
+    {
+      "id": "2OjMAjcG3xbbsrIV",
+      "name": "Vampire Bat Swarm",
+      "tier": 3,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/2OjMAjcG3xbbsrIV.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "TVnr955huZCjXrHM",
+      "name": "Vampire Lord",
+      "tier": 3,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/TVnr955huZCjXrHM.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "JqYraOqNmmhHk4Yy",
+      "name": "Vault Guardian Gaoler",
+      "tier": 3,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Vault Guardian Gaoler.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Vault Guardian Gaoler.webp",
+      "variants": 4
+    },
+    {
+      "id": "FVgYb28fhxlVcGwA",
+      "name": "Vault Guardian Sentinel",
+      "tier": 3,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Vault Guardian Sentinel.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Vault Guardian Sentinel.webp",
+      "variants": 4
+    },
+    {
+      "id": "c5hGdvY5UnSjlHws",
+      "name": "Vault Guardian Turret",
+      "tier": 3,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Vault Guardian Turret.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Vault Guardian Turret.webp",
+      "variants": 6
+    },
+    {
+      "id": "IQzeEU2nWWlBhBrX",
+      "name": "Viscera Sucker",
+      "tier": 3,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/IQzeEU2nWWlBhBrX.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "iT3pDkKEtPTqM8kw",
+      "name": "Whisper Wraith",
+      "tier": 3,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/iT3pDkKEtPTqM8kw.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "h5SPwKivPFqMgOrW",
+      "name": "Wyvern",
+      "tier": 3,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/h5SPwKivPFqMgOrW.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "qe2bhZCyVou4lTO5",
+      "name": "Young Fire Dragon",
+      "tier": 3,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/qe2bhZCyVou4lTO5.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "UGPiPLJsPvMTSKEF",
+      "name": "Young Ice Dragon",
+      "tier": 3,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Young Ice Dragon.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Young Ice Dragon.webp",
+      "variants": 4
+    },
+    {
+      "id": "WPEOIGfclNJxWb87",
+      "name": "Arch-Necromancer",
+      "tier": 4,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Arch-Necromancer.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Arch-Necromancer.webp",
+      "variants": 4
+    },
+    {
+      "id": "XEZbNjjrhyioE7YP",
+      "name": "Cephilith Abomination",
+      "tier": 4,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/XEZbNjjrhyioE7YP.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "I8ClqowcEUMUNVdn",
+      "name": "Cephilith Hatchling",
+      "tier": 4,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/I8ClqowcEUMUNVdn.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "kA7erU1gkzB84PDY",
+      "name": "Cephilith Novitiate",
+      "tier": 4,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/kA7erU1gkzB84PDY.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "2G7IfajsxWczY04t",
+      "name": "Cephilith Priest",
+      "tier": 4,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/2G7IfajsxWczY04t.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "702jiZPmXM5Hucwj",
+      "name": "Cephilith Titan",
+      "tier": 4,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/702jiZPmXM5Hucwj.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "HFpYk4dxDMx9emHs",
+      "name": "Cipactli",
+      "tier": 4,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/HFpYk4dxDMx9emHs.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "O9b1SOGmjhRszm75",
+      "name": "Cloud Titan",
+      "tier": 4,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/O9b1SOGmjhRszm75.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "FeIMCgQ5ZMRRDo4d",
+      "name": "Demon Lord Berzug",
+      "tier": 4,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/FeIMCgQ5ZMRRDo4d.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "FGnHhvctM9bka3Zj",
+      "name": "Dragon Mother Mitera",
+      "tier": 4,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/FGnHhvctM9bka3Zj.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "OsLG2BjaEdTZUJU9",
+      "name": "Fallen Shock Troop",
+      "tier": 4,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Fallen Shock Troop.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Fallen Shock Troop.webp",
+      "variants": 4
+    },
+    {
+      "id": "PELRry1vqjBzSAlr",
+      "name": "Fallen Sorcerer",
+      "tier": 4,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Fallen Sorcerer.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Fallen Sorcerer.webp",
+      "variants": 4
+    },
+    {
+      "id": "hxZ0sgoFJubh5aj6",
+      "name": "Fallen Warlord: Realm-Breaker",
+      "tier": 4,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Fallen Warlord Realm Breaker.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Fallen Warlord Realm Breaker.webp",
+      "variants": 5
+    },
+    {
+      "id": "RXkZTwBRi4dJ3JE5",
+      "name": "Fallen Warlord: Undefeated Champion",
+      "tier": 4,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Fallen Warlord Undefeated Champion.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Fallen Warlord Undefeated Champion.webp",
+      "variants": 4
+    },
+    {
+      "id": "PjkvJjlljFIg6Ae9",
+      "name": "Fire Titan Warlord",
+      "tier": 4,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/PjkvJjlljFIg6Ae9.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "iCiRtuBhVfojXOj5",
+      "name": "Gargantuan War Machine",
+      "tier": 4,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/iCiRtuBhVfojXOj5.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "Tg1F1PthQWeKdLJT",
+      "name": "Ghastly Legion",
+      "tier": 4,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/Tg1F1PthQWeKdLJT.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "CJtnIPvyAmv6PFsu",
+      "name": "Griffin",
+      "tier": 4,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/CJtnIPvyAmv6PFsu.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "kabueAo6BALApWqp",
+      "name": "Hallowed Archer",
+      "tier": 4,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Hallowed Archer.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Hallowed Archer.webp",
+      "variants": 4
+    },
+    {
+      "id": "68xDUa9Ls48O825Z",
+      "name": "Hallowed Choir",
+      "tier": 4,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/68xDUa9Ls48O825Z.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "VENwg7xEFcYObjmT",
+      "name": "Hallowed Soldier",
+      "tier": 4,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Hallowed Soldier.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Hallowed Soldier.webp",
+      "variants": 4
+    },
+    {
+      "id": "unuX3PZSkhlNUdVF",
+      "name": "Harbinger Of Death",
+      "tier": 4,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/unuX3PZSkhlNUdVF.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "2dmAOdPMFN6e4BV6",
+      "name": "Harbinger Of Famine",
+      "tier": 4,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/2dmAOdPMFN6e4BV6.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "PwAVKf3IhLYD8JTJ",
+      "name": "Harbinger Of Pestilence",
+      "tier": 4,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/PwAVKf3IhLYD8JTJ.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "G7LS7f4StFvtPPG7",
+      "name": "Harbinger Of War",
+      "tier": 4,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/G7LS7f4StFvtPPG7.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "r1mbfSSwKWdcFdAU",
+      "name": "High Seraph",
+      "tier": 4,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/High Seraph.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/High Seraph.webp",
+      "variants": 6
+    },
+    {
+      "id": "4nqv3ZwJGjnmic8j",
+      "name": "Kraken",
+      "tier": 4,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Kraken.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Kraken.webp",
+      "variants": 5
+    },
+    {
+      "id": "befIqd5IYKg6eUz2",
+      "name": "Oracle of Doom",
+      "tier": 4,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Oracle of Doom.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Oracle of Doom.webp",
+      "variants": 3
+    },
+    {
+      "id": "A0SeeDzwjvqOsyof",
+      "name": "Outer Realms Abomination",
+      "tier": 4,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Outer Realms Abomination.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Outer Realms Abomination.webp",
+      "variants": 4
+    },
+    {
+      "id": "ms6nuOl3NFkhPj1k",
+      "name": "Outer Realms Corrupter",
+      "tier": 4,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Outer Realms Corrupter.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Outer Realms Corrupter.webp",
+      "variants": 4
+    },
+    {
+      "id": "moJhHgKqTKPS2WYS",
+      "name": "Outer Realms Thrall",
+      "tier": 4,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Outer Realms Thrall.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Outer Realms Thrall.webp",
+      "variants": 5
+    },
+    {
+      "id": "DJTVWE5AuWKsAdLZ",
+      "name": "Owl Witch",
+      "tier": 4,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/DJTVWE5AuWKsAdLZ.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "CP6iRfHdyFWniTHY",
+      "name": "Perfected Zombie",
+      "tier": 4,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Perfected Zombie.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Perfected Zombie.webp",
+      "variants": 5
+    },
+    {
+      "id": "trcxftEx6fFKDNk0",
+      "name": "Ruby Dragon",
+      "tier": 4,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/trcxftEx6fFKDNk0.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "k70HuYjjFhd2L9Dg",
+      "name": "Severed Shadow",
+      "tier": 4,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/k70HuYjjFhd2L9Dg.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "cARWKseJwjskn23n",
+      "name": "Supreme Demiurge Adonix",
+      "tier": 4,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/cARWKseJwjskn23n.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "VSdS3N5Kh6uratv9",
+      "name": "Temporal Enforcer",
+      "tier": 4,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/VSdS3N5Kh6uratv9.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "pMuXGCSOQaxpi5tb",
+      "name": "Volcanic Dragon: Ashen Tyrant",
+      "tier": 4,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Volcanic Dragon Ashen Tyrant.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Volcanic Dragon Ashen Tyrant.webp",
+      "variants": 5
+    },
+    {
+      "id": "eArAPuB38CNR0ZIM",
+      "name": "Volcanic Dragon: Molten Scourge",
+      "tier": 4,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Volcanic Dragon Molten Scourge.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Volcanic Dragon Molten Scourge.webp",
+      "variants": 4
+    },
+    {
+      "id": "ladm7wykhZczYzrQ",
+      "name": "Volcanic Dragon: Obsidian Predator",
+      "tier": 4,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Volcanic Dragon Obsidian Predator.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Volcanic Dragon Obsidian Predator.webp",
+      "variants": 4
+    },
+    {
+      "id": "vXYRAVdCo7812o1g",
+      "name": "Water Mother",
+      "tier": 4,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/vXYRAVdCo7812o1g.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "wZA5KQUjIRhnUFrl",
+      "name": "Wyrmfiend",
+      "tier": 4,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/wZA5KQUjIRhnUFrl.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "qEzuNntzQ1fRInTm",
+      "name": "Wyrmlings",
+      "tier": 4,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/qEzuNntzQ1fRInTm.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "K0VZLi95DzTfdfso",
+      "name": "Xero The Castle Killer",
+      "tier": 4,
+      "origin": "generated",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/generated/K0VZLi95DzTfdfso.png",
+      "circle": null,
+      "variants": 0
+    },
+    {
+      "id": "YhJrP7rTBiRdX5Fp",
+      "name": "Zombie Legion",
+      "tier": 4,
+      "origin": "art-for-daggerheart",
+      "status": "ready",
+      "portrait": "modules/daggerheart-art-complete/adversaries/portraits/Zombie Legion.webp",
+      "circle": "modules/daggerheart-art-complete/adversaries/circle/Zombie Legion.webp",
+      "variants": 3
+    }
+  ]
+}

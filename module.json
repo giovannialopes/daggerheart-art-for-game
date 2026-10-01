@@ -1,0 +1,36 @@
+{
+  "id": "daggerheart-art-complete",
+  "title": "Daggerheart - Artes Completas",
+  "description": "Retratos e tokens para os adversários do sistema Daggerheart, com as artes do Art for Daggerheart e novas ilustrações. Oferece tokens circulares, variantes e retratos, preservando o tamanho e as regras dos adversários.",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14"
+  },
+  "authors": [{ "name": "Giovanni Alopes", "url": "https://github.com/giovannialopes" }],
+  "esmodules": ["scripts/main.js"],
+  "flags": {
+    "compendiumArtMappings": {
+      "daggerheart": {
+        "mapping": "modules/daggerheart-art-complete/mappings/adversaries.json",
+        "credit": "Artes do Art for Daggerheart: Gus e Yuri; integração original: Mestre Digital. Artes adicionais geradas para Giovanni."
+      }
+    }
+  },
+  "relationships": {
+    "systems": [{
+      "id": "daggerheart",
+      "type": "system",
+      "compatibility": { "minimum": "2.10.7" }
+    }],
+    "conflicts": [{
+      "id": "art-for-daggerheart",
+      "type": "module",
+      "reason": "Os dois módulos configuram as mesmas artes e tokens. Desative Art for Daggerheart para usar Artes Completas."
+    }]
+  },
+  "packs": [],
+  "url": "https://github.com/giovannialopes/daggerheart-art-for-game",
+  "manifest": "https://github.com/giovannialopes/daggerheart-art-for-game/releases/latest/download/module.json",
+  "download": "https://github.com/giovannialopes/daggerheart-art-for-game/releases/latest/download/daggerheart-art-for-game.zip"
+}
